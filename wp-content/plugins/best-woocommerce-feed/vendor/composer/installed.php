@@ -1,0 +1,71 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-develop',
+        'version' => 'dev-develop',
+        'type' => 'wordpress-plugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'ae3f360e9b040cafd37e56929b939b2111e783e3',
+        'name' => 'rextheme/best-woocommerce-feed',
+        'dev' => false,
+    ),
+    'versions' => array(
+        'appsero/client' => array(
+            'pretty_version' => 'v1.2.5',
+            'version' => '1.2.5.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../appsero/client',
+            'aliases' => array(),
+            'reference' => '20520c5bd529dc0ddfc335c813737858e6ce7301',
+            'dev_requirement' => false,
+        ),
+        'composer/installers' => array(
+            'pretty_version' => '1.x-dev',
+            'version' => '1.9999999.9999999.9999999-dev',
+            'type' => 'composer-plugin',
+            'install_path' => __DIR__ . '/./installers',
+            'aliases' => array(),
+            'reference' => '894a0b5c5d34c88b69b097f2aae1439730fa6836',
+            'dev_requirement' => false,
+        ),
+        'johnbillion/extended-cpts' => array(
+            'pretty_version' => '3.2.1',
+            'version' => '3.2.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../johnbillion/extended-cpts',
+            'aliases' => array(),
+            'reference' => '3a0c4fd338fce2e81496cbdca2cfea38bca6e34b',
+            'dev_requirement' => false,
+        ),
+        'philipnewcomer/wp-ajax-helper' => array(
+            'pretty_version' => '1.0.1',
+            'version' => '1.0.1.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../philipnewcomer/wp-ajax-helper',
+            'aliases' => array(),
+            'reference' => '3416943af039cbca4eba1efbf4d9f728860e3a5e',
+            'dev_requirement' => false,
+        ),
+        'rextheme/best-woocommerce-feed' => array(
+            'pretty_version' => 'dev-develop',
+            'version' => 'dev-develop',
+            'type' => 'wordpress-plugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'ae3f360e9b040cafd37e56929b939b2111e783e3',
+            'dev_requirement' => false,
+        ),
+        'roundcube/plugin-installer' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+        'shama/baton' => array(
+            'dev_requirement' => false,
+            'replaced' => array(
+                0 => '*',
+            ),
+        ),
+    ),
+);

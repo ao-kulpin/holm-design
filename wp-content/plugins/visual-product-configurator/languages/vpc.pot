@@ -1,0 +1,903 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vpc\n"
+"POT-Creation-Date: 2023-01-05 18:13+0100\n"
+"PO-Revision-Date: 2016-11-07 11:31+0100\n"
+"Last-Translator: ORION TEAM <support@orionorigin.com>\n"
+"Language-Team: ORION <support@orionorigin.com>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2\n"
+"X-Poedit-KeywordsList: _e;__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-vpc-admin.php:123
+msgid "Enable reverse rule"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:124
+msgid "Conditions relationship"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:167
+msgid "Form Builder"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:169
+msgid "Settings"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:170
+msgid "Getting Started"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:171 ../includes/class-vpc-config.php:921
+msgid "Manage conditional rules"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:239
+msgid "Visual Products Configurator"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:243
+msgid "Request a quote Addon"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:247
+msgid "Form Builder Addon"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:251
+msgid "Ouando Skin"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:255
+msgid "Modern Skin"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:259
+msgid "Lom Nava Skin"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:263
+msgid "Custom Text Add On"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:267
+msgid "Multiple Views Addon"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:271
+msgid "Save For Later Addon"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:275
+msgid "Upload Image"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:279
+msgid "Save Configuration Image Add-on"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:283
+msgid "Defined Currencies and Options Details"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:391
+msgid "Visual products configurator "
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:403
+msgid "Visual Products Configurator Settings"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:414
+msgid "Configuration page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:419
+msgid "Page where all products are configured."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:423
+msgid "Manage the configuration page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:431
+msgid ""
+"If Yes, the plugin will handle the content of the configuration page. If No, "
+"use the shortcode [wpb_builder] to display the configurator INSIDE the "
+"configuration page."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:435
+msgid "None"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:436
+msgid "Refresh"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:437
+msgid "Redirect to cart page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:438
+msgid "Redirect to product page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:444
+msgid "Hide configurator loader"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:452
+msgid "Would you like the configurator loader to be hidden?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:456
+msgid "Hide quantity box"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:464
+msgid "Hide quantity box on configurator page?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:468
+msgid "Hide woocommerce add to cart button "
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:476
+msgid ""
+"Should the plugin hide the default woocommerce add to cart button on "
+"configurables products?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:480
+msgid "Hide Build your own button on shop page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:488
+msgid "Should the plugin hide the build your own button on shop page?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:492
+msgid "Hide woocommerce add to cart button on shop page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:500
+msgid ""
+"Should the plugin hide the default woocommerce add to cart button on shop "
+"page?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:504
+msgid "Hide linked products cart page "
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:512
+msgid ""
+"Should the plugin hide the products linked to the options in the cart page?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:516
+msgid "Hide options selected in cart"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:524
+msgid "Should the plugin hide the options selected in the cart page?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:528
+msgid "Action after addition to cart"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:533
+msgid ""
+"What should happen once the customer adds the configured product to the cart."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:550
+msgid "Scroll follow"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:558
+msgid ""
+"Gives the preview the ability to follow scroll so that it can always remain "
+"visible."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:562
+msgid "Scroll follow on mobile"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:570
+msgid "If enabled, the preview scroll follow will remain active on mobile."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:574
+msgid "View option name on tooltip"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:582
+msgid "If enabled, the option name will be seen on the option tooltip"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:586
+msgid "View option price on tooltip"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:594
+msgid "If enabled, the option price will be seen on the option tooltip"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:597
+msgid "Links products options"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:605
+msgid "Do you want to link options to products?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:609
+msgid "Store original configuration data in orders"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:617
+msgid ""
+"If enabled, the plugin will store a snapshot of the original configuration "
+"data in the orders table everytime an order is made."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:620
+msgid "Display the configured image in the order mail"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:628
+msgid "Do you want to add the configured image to the order mail"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:631
+msgid ""
+"Select automatically the first element of the component when rules are "
+"applied"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:639
+msgid ""
+"Enable/Disable the automatic selection of the first element of the component "
+"when the rules are applied"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:643
+msgid "License key"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:646
+msgid ""
+"Licence key received after your purchase. <a href=\"https://orionorigin.com/"
+"my-account/orders/\" target=\"blank\">Where is my licence key</a>?"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:650
+msgid "Default skin icon width"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:656
+msgid "Default skin icon height"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:662
+msgid "Skin icons size"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:667
+msgid "Set default skin icons size."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:738
+msgid "Visual Product Configurator for WooCommerce database update required."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:742
+msgid "Conditional rules"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:744
+msgid ""
+"Instead of managing the rules from the configuration page, we moved the "
+"entire feature to a separate page accessible using the <strong>Manage "
+"conditional rules</strong> button from <strong>Product Builder > "
+"Configurations</strong>."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:748
+msgid "Custom text add-on"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:750
+msgid ""
+"From now, in order to create a text input option, you'll first have to "
+"create a text component in <strong>Product Builder > Text components</strong>"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:751
+msgid ""
+"If you click on the Run Updater button below, the plugin will recreate all "
+"custom text components based on your data."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:756
+msgid "Run the updater"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:835
+msgid "Done!"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:908
+msgid "Configurable"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:923
+msgid "Yes"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:925
+msgid "No"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:936
+msgid "Your max input var is"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:936
+msgid "but this page contains"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:936
+msgid ""
+"fields. You may experience a lost of data after saving. In order to fix this "
+"issue, please increase"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:936
+msgid "the max_input_vars"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:936
+msgid "value in your php.ini file"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:952
+msgid "About Visual Products Configurator"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:959
+msgid "Browse our extensions"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:960
+msgid "Videos tutorials"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:961
+msgid "Hire us"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:962
+msgid "About us"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:963
+msgid "Support"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1244
+msgid "Woocommerce Product Designer"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1246
+msgid ""
+"A powerful web to print solution which helps your customers design or "
+"customize logos, shirts, business cards and any prints before the order."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1249 ../admin/class-vpc-admin.php:1294
+msgid "From: $61"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1255
+msgid "Conditional Discounts for WooCommerce"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1259
+msgid ""
+"Conditional Discounts for WooCommerce is a groundbreaking extension <br> "
+"that helps you manage bulk\n"
+"\t\t\t\t\t\tor wholesale pricing, customers roles or groups based offers, "
+"or...."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1266
+msgid "From: $60"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1278 ../admin/class-vpc-admin.php:1283
+#: ../admin/class-vpc-admin.php:1299
+msgid "From: $99"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1332
+msgid "If you like "
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1332
+msgid "Visual Product Configurator"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1332
+msgid "please leave us a"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1332
+msgid "rating. A huge thanks in advance!"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1409
+msgid ""
+"WooCommerce is not installed on your website. You will not be able to use "
+"the features of the plugin."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1409
+msgid "Go to plugins page"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1427
+msgid "No licence key found in the settings. Please click"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1427
+msgid "here."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1427
+msgid "to define one."
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1586
+msgid "No configuration ID provided"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1601 ../includes/class-vpc-config.php:453
+msgid "Is selected"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1602 ../includes/class-vpc-config.php:454
+msgid "is deselected"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1606 ../includes/class-vpc-config.php:458
+#: ../includes/class-vpc-config.php:647
+msgid "Option"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1607 ../includes/class-vpc-config.php:459
+msgid "Component"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1608 ../includes/class-vpc-config.php:460
+msgid "Group per component"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1609 ../includes/class-vpc-config.php:461
+msgid "All groups"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1613 ../includes/class-vpc-config.php:465
+msgid "Show"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1614 ../includes/class-vpc-config.php:466
+msgid "Hide"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1615 ../includes/class-vpc-config.php:467
+msgid "Select"
+msgstr ""
+
+#: ../admin/class-vpc-admin.php:1623 ../includes/class-vpc-config.php:475
+msgid "Remove rule"
+msgstr ""
+
+#: ../admin/class-vpc-duplicate.php:49
+msgid "Make a duplicate from this configuration"
+msgstr ""
+
+#: ../admin/class-vpc-duplicate.php:50 ../includes/class-vpc-config.php:266
+#: ../includes/functions.php:1160
+msgid "Duplicate"
+msgstr ""
+
+#: ../admin/class-vpc-duplicate.php:77
+msgid "Copy to a new draft"
+msgstr ""
+
+#: ../admin/class-vpc-duplicate.php:138
+msgid "(Copy)"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:101
+msgid "Preview"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:108
+msgid "Configuration settings"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:141 ../includes/functions.php:1151
+msgid "Default"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:142
+msgid "Right Sidebar skin"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:150
+msgid "Checkbox"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:151
+msgid "Radio"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:159
+msgid "Skin"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:164
+msgid "Editor look and feel."
+msgstr ""
+
+#: ../includes/class-vpc-config.php:168
+msgid "Components default aspect"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:172
+msgid "Opened"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:173
+msgid "Closed"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:176
+msgid ""
+"Wether or not all components in the configuration should be opened or closed "
+"when the editor is loaded."
+msgstr ""
+
+#: ../includes/class-vpc-config.php:180
+msgid "Components behavior on click"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:184
+msgid "Leave others components opened"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:185
+msgid "Close others components"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:188
+msgid "What to do when the user clicks on a component."
+msgstr ""
+
+#: ../includes/class-vpc-config.php:191
+msgid "Configurator description"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:195
+msgid ""
+"Description of configurator on the configurator page to help the customer "
+"understand what to do"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:225 ../includes/functions.php:1100
+msgid "ID"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:231 ../includes/functions.php:1078
+msgid "Name"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:235
+msgid "Component name"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:239
+msgid "Behaviour"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:248 ../includes/functions.php:1067
+msgid "Icon"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:254
+msgid "Component icon"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:259
+msgid "Index"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:275
+msgid "Components"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:280 ../includes/functions.php:1173
+msgid "Component options"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:284
+msgid "Add component"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:323 ../includes/class-vpc-config.php:329
+msgid "selects the form to display on the configurator"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:526
+msgid "Enable Conditional Logic"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:549
+msgid "Rules"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:605
+msgid "IF"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:638
+msgid "Action"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:641
+msgid "Scope"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:644
+msgid "Apply on"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:650
+msgid "Status"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:665
+msgid "Configuration"
+msgstr ""
+
+#: ../includes/class-vpc-config.php:823
+msgid "Page where this product will edit."
+msgstr ""
+
+#: ../includes/class-vpc-config.php:907
+msgid "Manage rules"
+msgstr ""
+
+#: ../includes/functions.php:50
+msgid "Total:"
+msgstr ""
+
+#: ../includes/functions.php:123
+msgid "Add to cart"
+msgstr ""
+
+#: ../includes/functions.php:360
+msgid "Loading configurator..."
+msgstr ""
+
+#: ../includes/functions.php:690
+msgid "Single choice"
+msgstr ""
+
+#: ../includes/functions.php:691
+msgid "Multiple choices"
+msgstr ""
+
+#: ../includes/functions.php:692
+msgid "Dropdown"
+msgstr ""
+
+#: ../includes/functions.php:1056
+msgid "Image"
+msgstr ""
+
+#: ../includes/functions.php:1086
+msgid "Group"
+msgstr ""
+
+#: ../includes/functions.php:1094
+msgid "Description"
+msgstr ""
+
+#: ../includes/functions.php:1107
+msgid "Price"
+msgstr ""
+
+#: ../includes/functions.php:1140
+msgid "Product / variation ID"
+msgstr ""
+
+#: ../includes/functions.php:1168 ../includes/functions.php:1178
+msgid "Options"
+msgstr ""
+
+#: ../includes/functions.php:1177
+msgid "Manage options"
+msgstr ""
+
+#: ../includes/functions.php:1179
+msgid "Add option"
+msgstr ""
+
+#: ../includes/functions.php:1289
+msgid "No group"
+msgstr ""
+
+#: ../includes/functions.php:1491
+msgid "Your plugin is already active."
+msgstr ""
+
+#: ../includes/functions.php:1495
+msgid ""
+"Purchase code not found. Please, set your purchase code in the plugin's "
+"settings."
+msgstr ""
+
+#: ../includes/functions.php:1513
+msgid ""
+"You have not activated your license yet. Please, activate it in order to use "
+"this plugin."
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:102
+msgid "Downloading package from ORION servers..."
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:108
+msgid "Error! Can't connect to filesystem"
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:114
+#: ../includes/updaters/class-vpc-updater.php:187
+msgid "A license key is required to receive automatic updates"
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:114
+#: ../includes/updaters/class-vpc-updater.php:187
+msgid "Learn more"
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:114
+#: ../includes/updaters/class-vpc-updater.php:187
+msgid "Please visit"
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:114
+#: ../includes/updaters/class-vpc-updater.php:187
+msgid "your account"
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:114
+#: ../includes/updaters/class-vpc-updater.php:187
+msgid "to retrieve it."
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:114
+#: ../includes/updaters/class-vpc-updater.php:187
+msgid "to activate your Visual Products Configurator."
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:139
+#: ../includes/updaters/class-vpc-updater.php:143
+#: ../includes/updaters/class-vpc-updater.php:210
+#: ../includes/updaters/class-vpc-updater.php:214
+msgid "Error! No file found. Please contact the plugin owners."
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:164
+msgid "Error on unzipping package"
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updater.php:166
+#: ../includes/updaters/class-vpc-updater.php:222
+msgid "Wrong license key provided. Please verify and try again."
+msgstr ""
+
+#: ../includes/updaters/class-vpc-updating-manager.php:152
+msgid ""
+"Unable to retrieve the update details. Please check your connection and try "
+"again."
+msgstr ""
+
+#: ../includes/utils.php:553
+msgid "Add"
+msgstr ""
+
+#: ../public/class-vpc-public.php:101
+msgid ""
+"Looks like you're trying to access the configuration page directly. This "
+"page can only be accessed by clicking on the Build your own button from the "
+"product or the shop page."
+msgstr ""
+
+#: ../public/class-vpc-public.php:637
+msgid "Build your own"
+msgstr ""
+
+#: ../public/class-vpc-public.php:727
+msgid ""
+"Looks like you're trying to access the configuration page directly. This "
+"page can only be accessed by clicking on Build your own button from the "
+"product or the shop page."
+msgstr ""
+
+#: ../public/class-vpc-public.php:729
+msgid "This product is not purchasable."
+msgstr ""
+
+#: ../public/class-vpc-public.php:832
+msgid "You can not add that amount of product to the cart"
+msgstr ""
+
+#: ../public/class-vpc-public.php:968
+msgid "Product successfully added to basket."
+msgstr ""
+
+#: ../public/class-vpc-public.php:968
+msgid "View Cart"
+msgstr ""
+
+#: ../public/class-vpc-public.php:971
+msgid "A problem occured. Please try again."
+msgstr ""
+
+#: ../public/class-vpc-public.php:1060
+msgid "Edit"
+msgstr ""
+
+#: ../public/class-vpc-public.php:1852
+msgid "You can not remove the secondary product"
+msgstr ""
+
+#: ../skins/class-vpc-default-skin.php:88
+#: ../skins/class-vpc-right-sidebar-skin.php:88
+msgid "No valid configuration is linked to this product. Please review."
+msgstr ""
+
+#: ../skins/class-vpc-default-skin.php:142
+#: ../skins/class-vpc-right-sidebar-skin.php:135
+msgid "Made with vpc"
+msgstr ""
+
+#: ../skins/class-vpc-default-skin.php:250
+msgid "none"
+msgstr ""
+
+#: ../skins/class-vpc-default-skin.php:259
+msgid ""
+"No option detected for the component. You need at least one option per "
+"component for the configuration to work properly."
+msgstr ""
+
+#: ../skins/class-vpc-default-skin.php:295
+#: ../skins/class-vpc-right-sidebar-skin.php:301
+msgid "Choose an option..."
+msgstr ""

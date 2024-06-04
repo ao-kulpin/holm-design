@@ -1,0 +1,2861 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-31 14:36+0300\n"
+"PO-Revision-Date: 2023-01-31 14:37+0300\n"
+"Last-Translator: \n"
+"Language-Team: Team Like-Sport.com.ua <admin@like-sport.com.ua>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c\n"
+"X-Poedit-SearchPath-0: extensions.php\n"
+"X-Poedit-SearchPath-1: functions.php\n"
+"X-Poedit-SearchPath-2: packages.php\n"
+"X-Poedit-SearchPath-3: sandbox.php\n"
+"X-Poedit-SearchPath-4: uninstall.php\n"
+"X-Poedit-SearchPath-5: yml-for-yandex-market.php\n"
+"X-Poedit-SearchPath-6: includes/backward-compatibility.php\n"
+"X-Poedit-SearchPath-7: includes/icopydoc-useful-functions.php\n"
+"X-Poedit-SearchPath-8: includes/old-php-add-functions.php\n"
+"X-Poedit-SearchPath-9: includes/wc-add-functions.php\n"
+"X-Poedit-SearchPath-10: classes/generation/class-yfym-generation-xml.php\n"
+"X-Poedit-SearchPath-11: classes/generation/class-yfym-get-closed-tag.php\n"
+"X-Poedit-SearchPath-12: classes/generation/class-yfym-get-open-tag.php\n"
+"X-Poedit-SearchPath-13: classes/generation/class-yfym-get-paired-tag.php\n"
+"X-Poedit-SearchPath-14: classes/generation/class-yfym-get-unit.php\n"
+"X-Poedit-SearchPath-15: classes/generation/class-yfym-get-unit-offer.php\n"
+"X-Poedit-SearchPath-16: classes/generation/class-yfym-get-unit-offer-simple."
+"php\n"
+"X-Poedit-SearchPath-17: classes/generation/class-yfym-get-unit-offer-"
+"variable.php\n"
+"X-Poedit-SearchPath-18: classes/generation/traits/common/trait-yfym-t-common-"
+"get-catid.php\n"
+"X-Poedit-SearchPath-19: classes/generation/traits/common/trait-yfym-t-common-"
+"skips.php\n"
+"X-Poedit-SearchPath-20: classes/generation/traits/global/traits-yfym-global-"
+"variables.php\n"
+"X-Poedit-SearchPath-21: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-age.php\n"
+"X-Poedit-SearchPath-22: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-amount.php\n"
+"X-Poedit-SearchPath-23: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-barcode.php\n"
+"X-Poedit-SearchPath-24: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-categoryid.php\n"
+"X-Poedit-SearchPath-25: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-condition.php\n"
+"X-Poedit-SearchPath-26: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-count.php\n"
+"X-Poedit-SearchPath-27: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-country-of-origin.php\n"
+"X-Poedit-SearchPath-28: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-credit-template.php\n"
+"X-Poedit-SearchPath-29: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-currencyid.php\n"
+"X-Poedit-SearchPath-30: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-delivery.php\n"
+"X-Poedit-SearchPath-31: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-delivery-options.php\n"
+"X-Poedit-SearchPath-32: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-description.php\n"
+"X-Poedit-SearchPath-33: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-dimensions.php\n"
+"X-Poedit-SearchPath-34: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-downloadable.php\n"
+"X-Poedit-SearchPath-35: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-enable-auto-discounts.php\n"
+"X-Poedit-SearchPath-36: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-expiry.php\n"
+"X-Poedit-SearchPath-37: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-id.php\n"
+"X-Poedit-SearchPath-38: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-instock.php\n"
+"X-Poedit-SearchPath-39: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-keywords.php\n"
+"X-Poedit-SearchPath-40: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-manufacturer.php\n"
+"X-Poedit-SearchPath-41: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-manufacturer-warranty.php\n"
+"X-Poedit-SearchPath-42: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-market-sku.php\n"
+"X-Poedit-SearchPath-43: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-min-quantity.php\n"
+"X-Poedit-SearchPath-44: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-model.php\n"
+"X-Poedit-SearchPath-45: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-name.php\n"
+"X-Poedit-SearchPath-46: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-offer.php\n"
+"X-Poedit-SearchPath-47: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-outlets.php\n"
+"X-Poedit-SearchPath-48: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-params.php\n"
+"X-Poedit-SearchPath-49: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-period-of-validity-days.php\n"
+"X-Poedit-SearchPath-50: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-pickup.php\n"
+"X-Poedit-SearchPath-51: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-pickup-options.php\n"
+"X-Poedit-SearchPath-52: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-picture.php\n"
+"X-Poedit-SearchPath-53: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-premium-price.php\n"
+"X-Poedit-SearchPath-54: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-price.php\n"
+"X-Poedit-SearchPath-55: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-recommend-stock-data.php\n"
+"X-Poedit-SearchPath-56: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-sales-notes.php\n"
+"X-Poedit-SearchPath-57: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-shop-sku.php\n"
+"X-Poedit-SearchPath-58: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-step-quantity.php\n"
+"X-Poedit-SearchPath-59: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-store.php\n"
+"X-Poedit-SearchPath-60: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-supplier.php\n"
+"X-Poedit-SearchPath-61: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-tn-ved-codes.php\n"
+"X-Poedit-SearchPath-62: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-url.php\n"
+"X-Poedit-SearchPath-63: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-vat.php\n"
+"X-Poedit-SearchPath-64: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-vendor.php\n"
+"X-Poedit-SearchPath-65: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-vendorcode.php\n"
+"X-Poedit-SearchPath-66: classes/generation/traits/simple/trait-yfym-t-simple-"
+"get-weight.php\n"
+"X-Poedit-SearchPath-67: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-age.php\n"
+"X-Poedit-SearchPath-68: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-amount.php\n"
+"X-Poedit-SearchPath-69: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-barcode.php\n"
+"X-Poedit-SearchPath-70: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-categoryid.php\n"
+"X-Poedit-SearchPath-71: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-condition.php\n"
+"X-Poedit-SearchPath-72: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-count.php\n"
+"X-Poedit-SearchPath-73: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-country-of-origin.php\n"
+"X-Poedit-SearchPath-74: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-credit-template.php\n"
+"X-Poedit-SearchPath-75: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-currencyid.php\n"
+"X-Poedit-SearchPath-76: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-delivery.php\n"
+"X-Poedit-SearchPath-77: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-delivery-options.php\n"
+"X-Poedit-SearchPath-78: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-description.php\n"
+"X-Poedit-SearchPath-79: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-dimensions.php\n"
+"X-Poedit-SearchPath-80: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-downloadable.php\n"
+"X-Poedit-SearchPath-81: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-enable-auto-discounts.php\n"
+"X-Poedit-SearchPath-82: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-expiry.php\n"
+"X-Poedit-SearchPath-83: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-group-id.php\n"
+"X-Poedit-SearchPath-84: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-id.php\n"
+"X-Poedit-SearchPath-85: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-instock.php\n"
+"X-Poedit-SearchPath-86: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-keywords.php\n"
+"X-Poedit-SearchPath-87: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-manufacturer.php\n"
+"X-Poedit-SearchPath-88: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-manufacturer-warranty.php\n"
+"X-Poedit-SearchPath-89: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-market-sku.php\n"
+"X-Poedit-SearchPath-90: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-min-quantity.php\n"
+"X-Poedit-SearchPath-91: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-model.php\n"
+"X-Poedit-SearchPath-92: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-name.php\n"
+"X-Poedit-SearchPath-93: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-offer.php\n"
+"X-Poedit-SearchPath-94: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-outlets.php\n"
+"X-Poedit-SearchPath-95: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-params.php\n"
+"X-Poedit-SearchPath-96: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-period-of-validity-days.php\n"
+"X-Poedit-SearchPath-97: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-pickup.php\n"
+"X-Poedit-SearchPath-98: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-pickup-options.php\n"
+"X-Poedit-SearchPath-99: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-picture.php\n"
+"X-Poedit-SearchPath-100: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-premium-price.php\n"
+"X-Poedit-SearchPath-101: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-price.php\n"
+"X-Poedit-SearchPath-102: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-recommend-stock-data.php\n"
+"X-Poedit-SearchPath-103: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-sales-notes.php\n"
+"X-Poedit-SearchPath-104: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-shop-sku.php\n"
+"X-Poedit-SearchPath-105: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-step-quantity.php\n"
+"X-Poedit-SearchPath-106: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-store.php\n"
+"X-Poedit-SearchPath-107: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-supplier.php\n"
+"X-Poedit-SearchPath-108: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-tn-ved-codes.php\n"
+"X-Poedit-SearchPath-109: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-url.php\n"
+"X-Poedit-SearchPath-110: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-vat.php\n"
+"X-Poedit-SearchPath-111: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-vendor.php\n"
+"X-Poedit-SearchPath-112: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-vendorcode.php\n"
+"X-Poedit-SearchPath-113: classes/generation/traits/variable/trait-yfym-t-"
+"variable-get-weight.php\n"
+"X-Poedit-SearchPath-114: classes/system/class-yfym-data-arr.php\n"
+"X-Poedit-SearchPath-115: classes/system/class-yfym-debug-page.php\n"
+"X-Poedit-SearchPath-116: classes/system/class-yfym-error-log.php\n"
+"X-Poedit-SearchPath-117: classes/system/class-yfym-feedback.php\n"
+"X-Poedit-SearchPath-118: classes/system/class-yfym-settings-feed-wp-list-"
+"table.php\n"
+"X-Poedit-SearchPath-119: classes/system/class-yfym-settings-page.php\n"
+"X-Poedit-SearchPath-120: classes/system/class-yfym-wp-list-table.php\n"
+"X-Poedit-SearchPath-121: classes/system/class-yml-for-yandex-market.php\n"
+"X-Poedit-SearchPath-122: classes/system/class-yfym-plugin-form-activate.php\n"
+"X-Poedit-SearchPath-123: classes/system/class-yfym-plugin-upd.php\n"
+
+#: classes/generation/class-yfym-get-unit.php:67
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:24
+msgid "There is no product with this ID"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-get-catid.php:89
+#, fuzzy
+#| msgid "The product can be purchased in retail stores"
+msgid "The product has no categories"
+msgstr "Товар можна купити без попереднього замовлення"
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:28
+msgid "Product is grouped"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:32
+msgid "Product is External/Affiliate product"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:36
+msgid "The product status/visibility is"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:43
+msgid "Product is simple"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:48
+msgid "Product is variable"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:56
+msgid "The \"Remove product from feed\" condition worked"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:62
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:116
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:119
+msgid "Flag"
+msgstr ""
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:75
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:100
+#: classes/system/class-yfym-settings-page.php:734
+msgid "Skip missing products"
+msgstr "Виключати товари яких немає в наявності"
+
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:84
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:88
+#: classes/generation/traits/common/trait-yfym-t-common-skips.php:109
+#: classes/system/class-yfym-settings-page.php:740
+msgid "Skip backorders products"
+msgstr "Виключати з фіда товари для попереднього замовлення"
+
+#: classes/generation/traits/simple/trait-yfym-t-simple-get-picture.php:38
+#: classes/generation/traits/variable/trait-yfym-t-variable-get-picture.php:47
+msgid "Product has no images"
+msgstr ""
+
+#: classes/generation/traits/simple/trait-yfym-t-simple-get-price.php:37
+msgid "Price not specified"
+msgstr "Ціна не вказана"
+
+#: classes/generation/traits/simple/trait-yfym-t-simple-get-price.php:46
+#: classes/generation/traits/simple/trait-yfym-t-simple-get-price.php:50
+#: classes/generation/traits/variable/trait-yfym-t-variable-get-price.php:48
+#: classes/generation/traits/variable/trait-yfym-t-variable-get-price.php:52
+msgid "The product price"
+msgstr ""
+
+#: classes/generation/traits/variable/trait-yfym-t-variable-get-name.php:90
+#, fuzzy
+#| msgid "Add attributes to the variable products name"
+msgid "There are no variable attributes to create a unique product name"
+msgstr "Додавати атрибути в назву варіативних товарів"
+
+#: classes/generation/traits/variable/trait-yfym-t-variable-get-price.php:39
+msgid "The product has no price"
+msgstr ""
+
+#: classes/system/class-yfym-debug-page.php:23
+#: classes/system/class-yml-for-yandex-market.php:291
+msgid "Debug page"
+msgstr "Сторінка налагодження"
+
+#: classes/system/class-yfym-debug-page.php:59
+msgid "Logs"
+msgstr "Логи"
+
+#: classes/system/class-yfym-debug-page.php:63
+msgid "Log-file here"
+msgstr "Логи тут"
+
+#: classes/system/class-yfym-debug-page.php:68
+msgid "Keep logs"
+msgstr "Вести логи"
+
+#: classes/system/class-yfym-debug-page.php:69
+msgid "Clear logs"
+msgstr "Очистити логи"
+
+#: classes/system/class-yfym-debug-page.php:73
+msgid "Do not check this box if you are not a developer"
+msgstr "Не встановлюйте цей прапорець, якщо ви не розробник"
+
+#: classes/system/class-yfym-debug-page.php:77
+msgid "Disable notices"
+msgstr "Відключити повідомлення"
+
+#: classes/system/class-yfym-debug-page.php:80
+msgid "Disable notices about YML-construct"
+msgstr "Вимкнути сповіщення про YML-збірці"
+
+#: classes/system/class-yfym-debug-page.php:84
+msgid "Enable"
+msgstr "Увімкнути"
+
+#: classes/system/class-yfym-debug-page.php:87
+msgid "Enable the five minute interval for CRON"
+msgstr "Увімкніть п'ятихвилинний інтервал для CRON"
+
+#: classes/system/class-yfym-debug-page.php:96
+#: classes/system/class-yfym-settings-page.php:85
+#: classes/system/class-yfym-settings-page.php:87
+msgid "Save"
+msgstr "Зберегти"
+
+#: classes/system/class-yfym-debug-page.php:97
+#: classes/system/class-yfym-settings-page.php:90
+msgid "Click to save the settings"
+msgstr "Натисніть, щоб зберегти налаштування"
+
+#: classes/system/class-yfym-debug-page.php:107
+msgid "Request simulation"
+msgstr "Симуляція запиту"
+
+#: classes/system/class-yfym-debug-page.php:156
+#: classes/system/class-yfym-settings-page.php:139
+#: classes/system/class-yfym-settings-page.php:212
+#: classes/system/class-yfym-settings-page.php:338
+#: classes/system/class-yfym-settings-page.php:449
+#: classes/system/class-yfym-settings-page.php:626
+msgid "Feed"
+msgstr "Фід"
+
+#: classes/system/class-yfym-debug-page.php:168
+msgid "Simulated"
+msgstr "Симуляція"
+
+#: classes/system/class-yfym-debug-page.php:176
+msgid "Possible problems"
+msgstr "Можливі проблеми"
+
+#: classes/system/class-yfym-debug-page.php:182
+msgid "Self-diagnosis functions did not reveal potential problems"
+msgstr "Функції самодіагностики не виявили потенційних проблем"
+
+#: classes/system/class-yfym-debug-page.php:190
+msgid "Sandbox"
+msgstr "Пісочниця"
+
+#: classes/system/class-yfym-debug-page.php:207
+msgid ""
+"Your site has no global attributes! This may affect the quality of the YML "
+"feed. This can also cause difficulties when setting up the plugin"
+msgstr ""
+"Ваш сайт не має глобальних атрибутів! Це може вплинути на якість YML-фіда. "
+"Це також може викликати труднощі при налаштуванні плагіна"
+
+#: classes/system/class-yfym-debug-page.php:207
+msgid "Please read the recommendations"
+msgstr "Будь ласка, ознайомтеся з рекомендаціями"
+
+#: classes/system/class-yfym-debug-page.php:246
+msgid "Most likely, these plugins negatively affect the operation of"
+msgstr "Швидше за все, ці плагіни негативно впливають на роботу"
+
+#: classes/system/class-yfym-debug-page.php:246
+msgid ""
+"If you are a developer of one of the plugins from the list above, please "
+"contact me"
+msgstr ""
+"Якщо ви є розробником одного з плагінів з наведеного вище списку, будь "
+"ласка, зв'яжіться зі мною"
+
+#: classes/system/class-yfym-debug-page.php:286
+#: classes/system/class-yml-for-yandex-market.php:254
+msgid "Updated"
+msgstr "Оновлене"
+
+#: classes/system/class-yfym-debug-page.php:302
+msgid "Logs were cleared"
+msgstr "Логи були очищені"
+
+#: classes/system/class-yfym-debug-page.php:305
+msgid "Error accessing log file. The log file may have been deleted previously"
+msgstr "Помилка доступу до log-файлу. Можливо log-файл був видалений раніше"
+
+#: classes/system/class-yfym-feedback.php:38
+msgid "Send data about the work of the plugin"
+msgstr "Надсилайте дані про роботу плагіна"
+
+#: classes/system/class-yfym-feedback.php:40
+msgid "Sending statistics you help make the plugin even better"
+msgstr "Відправляючи статистику, ви допомагаєте зробити плагін ще краще"
+
+#: classes/system/class-yfym-feedback.php:40
+msgid "The following data will be transferred"
+msgstr "Наступні дані будуть передані"
+
+#: classes/system/class-yfym-feedback.php:42
+msgid "URL your feeds"
+msgstr ""
+
+#: classes/system/class-yfym-feedback.php:43
+msgid "Files generation status"
+msgstr ""
+
+#: classes/system/class-yfym-feedback.php:44
+#, fuzzy
+#| msgid "version to"
+msgid "PHP version information"
+msgstr "версію до"
+
+#: classes/system/class-yfym-feedback.php:45
+msgid "Multisite mode status"
+msgstr ""
+
+#: classes/system/class-yfym-feedback.php:46
+msgid "Technical information and plugin logs"
+msgstr ""
+
+#: classes/system/class-yfym-feedback.php:48
+msgid "Did my plugin help you upload your products to the"
+msgstr "Чи допоміг Вам плагін завантажити продукцію на"
+
+#: classes/system/class-yfym-feedback.php:51
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:84
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:151
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:161
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:368
+#: classes/system/class-yfym-settings-page.php:397
+#: classes/system/class-yfym-settings-page.php:705
+msgid "Yes"
+msgstr "Так"
+
+#: classes/system/class-yfym-feedback.php:52
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:152
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:162
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:372
+#: classes/system/class-yfym-settings-page.php:396
+#: classes/system/class-yfym-settings-page.php:704
+msgid "No"
+msgstr "Немає"
+
+#: classes/system/class-yfym-feedback.php:54
+msgid ""
+"If you don't mind to be contacted in case of problems, please enter your "
+"email address"
+msgstr ""
+"Якщо ви не заперечуєте, щоб з Вами зв'язалися в разі виникнення додаткових "
+"запитань з приводу роботи плагіна, то вкажіть Вашу адресу електронної пошти"
+
+#: classes/system/class-yfym-feedback.php:56
+msgid "Your message"
+msgstr "Ваше повідомлення"
+
+#: classes/system/class-yfym-feedback.php:57
+msgid ""
+"Enter your text to send me a message (You can write me in Russian or "
+"English). I check my email several times a day"
+msgstr ""
+"Введіть текст, щоб відправити мені по електронній пошті (Ви можете написати "
+"мені російською або англійською мовою). Я перевіряю свою електронну пошту "
+"кілька разів на день"
+
+#: classes/system/class-yfym-feedback.php:59
+msgid "Send data"
+msgstr "Надіслати дані"
+
+#: classes/system/class-yfym-feedback.php:67
+msgid "Please support the project"
+msgstr "Будь ласка, підтримайте проект"
+
+#: classes/system/class-yfym-feedback.php:69
+msgid "Thank you for using the plugin"
+msgstr "Дякуємо вам за використання плагіна"
+
+#: classes/system/class-yfym-feedback.php:70
+msgid "Please help make the plugin better"
+msgstr "Будь ласка, допоможіть зробити плагін краще"
+
+#: classes/system/class-yfym-feedback.php:70
+msgid "answering 6 questions"
+msgstr "відповівши на 6 питань"
+
+#: classes/system/class-yfym-feedback.php:71
+msgid "If this plugin useful to you, please support the project one way"
+msgstr ""
+"Якщо цей плагін вам корисний, будь ласка, підтримайте проект одним із "
+"способів"
+
+#: classes/system/class-yfym-feedback.php:73
+msgid "Leave a comment on the plugin page"
+msgstr "Залиште коментар на сторінці плагіна"
+
+#: classes/system/class-yfym-feedback.php:74
+msgid "Support the project financially"
+msgstr "Підтримайте проект фінансово"
+
+#: classes/system/class-yfym-feedback.php:74
+msgid "Donate now"
+msgstr "Підтримати проект"
+
+#: classes/system/class-yfym-feedback.php:75
+msgid "Noticed a bug or have an idea how to improve the quality of the plugin"
+msgstr ""
+"Помітили помилку, чи маєте уявлення про те, як поліпшити якість плагіна"
+
+#: classes/system/class-yfym-feedback.php:75
+msgid "Let me know"
+msgstr "Напишіть мені"
+
+#: classes/system/class-yfym-feedback.php:77
+msgid "The author of the plugin Maxim Glazunov"
+msgstr "З повагою, Максим Глазунов"
+
+#: classes/system/class-yfym-feedback.php:78
+msgid "Accept orders for individual revision of the plugin"
+msgstr "Приймаємо замовлення на індивідуальну доопрацювання плагіна"
+
+#: classes/system/class-yfym-feedback.php:78
+msgid "Leave a request"
+msgstr "Залиште заявку"
+
+#: classes/system/class-yfym-feedback.php:116
+msgid "The data has been sent. Thank you"
+msgstr "Дані були відправлені. Дякую"
+
+#: classes/system/class-yfym-plugin-form-activate.php:62
+#, fuzzy
+#| msgid "Send data"
+msgid "License data"
+msgstr "Надіслати дані"
+
+#: classes/system/class-yfym-plugin-form-activate.php:66
+msgid "Order ID"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-form-activate.php:73
+#: classes/system/class-yfym-plugin-form-activate.php:84
+#: classes/system/class-yfym-settings-page.php:802
+#: classes/system/class-yfym-settings-page.php:803
+#: classes/system/class-yfym-settings-page.php:804
+#: classes/system/class-yfym-settings-page.php:805
+#: classes/system/class-yfym-settings-page.php:806
+#: classes/system/class-yfym-settings-page.php:807
+#: classes/system/class-yfym-settings-page.php:808
+#: classes/system/class-yfym-settings-page.php:809
+#: classes/system/class-yfym-settings-page.php:810
+msgid "Read more"
+msgstr "Детальніше"
+
+#: classes/system/class-yfym-plugin-form-activate.php:77
+msgid "Order Email"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-form-activate.php:88
+msgid "Update License Data"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-form-activate.php:131
+#, fuzzy
+#| msgid "Plugin YML for Yandex Market has been updated!"
+msgid "License data has been updated"
+msgstr "Плагін YML для Yandex Market був оновлений!"
+
+#: classes/system/class-yfym-plugin-form-activate.php:131
+#, fuzzy
+#| msgid "read this guide"
+msgid "Refresh this page"
+msgstr "прочитайте це керівництво"
+
+#: classes/system/class-yfym-plugin-upd.php:107
+msgid "License expired"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:108
+#: classes/system/class-yfym-plugin-upd.php:167
+msgid "Please"
+msgstr "Будь ласка"
+
+#: classes/system/class-yfym-plugin-upd.php:110
+#: classes/system/class-yfym-plugin-upd.php:169
+msgid "purchase a new license"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:111
+#: classes/system/class-yfym-plugin-upd.php:170
+msgid "to get a discount, use this promo code"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:113
+#: classes/system/class-yfym-plugin-upd.php:172
+msgid "If you have already done this"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:114
+#: classes/system/class-yfym-plugin-upd.php:173
+msgid "enter the new license information here"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:120
+#: classes/system/class-yfym-plugin-upd.php:141
+msgid "License data is invalid"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:121
+#: classes/system/class-yfym-plugin-upd.php:142
+msgid "version features do not work and you can not install updates"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:122
+#: classes/system/class-yfym-plugin-upd.php:132
+#: classes/system/class-yfym-plugin-upd.php:143
+#, fuzzy
+#| msgid "version to"
+msgid "Enter your license information"
+msgstr "версію до"
+
+#: classes/system/class-yfym-plugin-upd.php:123
+#: classes/system/class-yfym-plugin-upd.php:133
+#: classes/system/class-yfym-plugin-upd.php:144
+msgid "or"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:125
+#: classes/system/class-yfym-plugin-upd.php:135
+#: classes/system/class-yfym-plugin-upd.php:146
+msgid "purchase a new one"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:131
+msgid ""
+"This license cannot be used on this site. The package limit has been exceeded"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:165
+msgid "License expires in"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:166
+#, fuzzy
+#| msgid "Monday"
+msgid "day"
+msgstr "Понеділок"
+
+#: classes/system/class-yfym-plugin-upd.php:166
+msgctxt "2 days"
+msgid "days"
+msgstr ""
+
+#: classes/system/class-yfym-plugin-upd.php:166
+msgctxt "5 days"
+msgid "days"
+msgstr ""
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:36
+msgid "Attribute"
+msgstr "Aтрибут"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:37
+msgid "Attribute description"
+msgstr "Опис атрибуту"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:38
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:316
+msgid "Value"
+msgstr "Значення"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:39
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:284
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:313
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:400
+msgid "Default value"
+msgstr "Значення за замовчуванням"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:53
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:70
+msgid "Quantity of products"
+msgstr "Кількість товарів"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:54
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:71
+msgid ""
+"To make it work you must enable \"Manage stock\" and indicate \"Stock "
+"quantity\""
+msgstr ""
+"Щоб це спрацювало, ви повинні включити \"Управління запасами\" і вказати "
+"\"Кількість запасів\"."
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:56
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:73
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:83
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:93
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:131
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:181
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:213
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:237
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:286
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:361
+#: classes/system/class-yfym-settings-page.php:261
+#: classes/system/class-yfym-settings-page.php:264
+#: classes/system/class-yfym-settings-page.php:317
+#: classes/system/class-yfym-settings-page.php:367
+#: classes/system/class-yfym-settings-page.php:681
+#: classes/system/class-yml-for-yandex-market.php:503
+#: classes/system/class-yml-for-yandex-market.php:552
+#: classes/system/class-yml-for-yandex-market.php:635
+#: classes/system/class-yml-for-yandex-market.php:706
+#: classes/system/class-yml-for-yandex-market.php:791
+msgid "Disabled"
+msgstr "Відключено"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:57
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:74
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:94
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:132
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:214
+#: classes/system/class-yfym-settings-page.php:262
+#: classes/system/class-yfym-settings-page.php:318
+#: classes/system/class-yfym-settings-page.php:366
+#: classes/system/class-yfym-settings-page.php:682
+#: classes/system/class-yfym-settings-page.php:684
+msgid "Enabled"
+msgstr "Включено"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:59
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:66
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:76
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:86
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:103
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:117
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:134
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:144
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:154
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:164
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:174
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:192
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:206
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:216
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:223
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:230
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:240
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:247
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:254
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:261
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:279
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:299
+msgid "There are no default settings"
+msgstr ""
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:80
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:81
+msgid "Automatically remove products from sale"
+msgstr "Автоматичне видалення товарів з продажу"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:90
+msgid "Add market-sku to feed"
+msgstr "Додати market-sku до фід"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:91
+msgid "Optional when creating a catalog. A must for price recommendations"
+msgstr ""
+"Необов'язково при формуванні каталогу. Обов'язково для отримання "
+"рекомендацій за цінами"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:100
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:101
+msgid "Manufacturer company"
+msgstr "Компанія-виробник"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:107
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:108
+msgid "Vendor"
+msgstr "Виробник"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:114
+msgid "Country of origin"
+msgstr "Країна виробник"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:115
+msgid "This element indicates the country where the product was manufactured"
+msgstr "Елемент призначений для зазначення країни виробництва товару"
+
+# Без
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:121
+msgid "Source ID of the product"
+msgstr "ІД джерела товару"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:128
+#, fuzzy
+#| msgid "Minimum number of products per order"
+msgid "Mark products under the order"
+msgstr "Мінімальна кількість товарів в замовленні"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:129
+#, fuzzy
+#| msgid "Product in the archive"
+msgid "Product under the order"
+msgstr "Товар в архіві"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:138
+#: classes/system/class-yml-for-yandex-market.php:550
+msgid "Pickup"
+msgstr "Самовивіз"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:139
+msgid "Option to get order from pickup point"
+msgstr "Можливість самовивозу з пунктів видачі"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:141
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:171
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:276
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:376
+msgid "True"
+msgstr "Так"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:142
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:172
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:277
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:380
+msgid "False"
+msgstr "Немає"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:148
+msgid "Price from"
+msgstr "Ціна від"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:149
+msgid "Apply the setting Price from"
+msgstr "Застосувати параметр Ціна від до всіх товарів"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:149
+msgid "attribute of"
+msgstr "атрибут"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:149
+msgid "Example"
+msgstr "Приклад"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:158
+msgid "Old price"
+msgstr "Стара ціна"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:159
+msgid ""
+"In oldprice indicates the old price of the goods, which must necessarily be "
+"higher than the new price (price)"
+msgstr ""
+"У старій ціні вказується стара ціна товару, яка обов'язково повинна бути "
+"вище нової ціни (ціни)"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:168
+#: classes/system/class-yml-for-yandex-market.php:501
+msgid "Delivery"
+msgstr "Доставка"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:169
+msgid ""
+"The delivery item must be set to false if the item is prohibited to sell "
+"remotely (jewelry, medicines)"
+msgstr ""
+"Елемент delivery повинен обов'язково мати значення false, якщо товар "
+"заборонено продавати дистанційно (ювелірні вироби, лікарські засоби)"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:178
+#: classes/system/class-yml-for-yandex-market.php:604
+msgid "VAT rate"
+msgstr "ПДВ"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:179
+#: classes/system/class-yml-for-yandex-market.php:616
+msgid "This element is used when creating an YML feed for Yandex.Delivery"
+msgstr ""
+"Цей елемент використовується при створенні YML-фіда для Яндекс Доставки"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:182
+msgid "Enable. No default value"
+msgstr "Увімкнути. Без значень за замовчуванням"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:183
+#: classes/system/class-yml-for-yandex-market.php:607
+msgid "No VAT"
+msgstr "Без ПДВ"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:196
+msgid "Barcode"
+msgstr "Штрих-код"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:203
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:204
+msgid "Vendor Code"
+msgstr "Артикул"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:220
+msgid "Shelf life / service life"
+msgstr "Термін придатності / термін служби"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:221
+msgid "Shelf life / service life. expiry date / service life"
+msgstr "Термін придатності / термін служби. термін придатності / термін служби"
+
+# Без
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:227
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:228
+msgid "Shelf life"
+msgstr "Термін придатності"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:234
+msgid "Mark downloadable products"
+msgstr "Позначати завантажувані товари"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:238
+msgid "On"
+msgstr "Увімкнути"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:244
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:245
+msgid "Age"
+msgstr "Вік"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:251
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:252
+msgid "Model"
+msgstr "Модель"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:258
+msgid "Manufacturer warrant"
+msgstr "Гарантія виробника"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:259
+msgid ""
+"This element is used for products that have an official manufacturer's "
+"warranty"
+msgstr ""
+"Цей елемент використовується для виробів, на які є офіційна гарантія "
+"виробника"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:259
+msgid "Product does not have an official warranty"
+msgstr "Продукт не має офіційної гарантії"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:259
+msgid "Product has an official warranty"
+msgstr "Продукт має офіційну гарантію"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:265
+msgid "Sales notes"
+msgstr "Примітка"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:266
+msgid ""
+"The text may be up to 50 characters in length. Also in the item is forbidden "
+"to specify the terms of delivery and price reduction (discount on "
+"merchandise)"
+msgstr ""
+"Не більше 50 символів. Також в елементі заборонено вказувати умови доставки "
+"і зниження ціни (знижку на товар)"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:272
+msgid "Store"
+msgstr "Запас"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:273
+msgid "true"
+msgstr "так"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:273
+msgid "The product can be purchased in retail stores"
+msgstr "Товар можна купити без попереднього замовлення"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:274
+msgid "false"
+msgstr "немає"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:274
+msgid "the product cannot be purchased in retail stores"
+msgstr "товар не можна купити без попереднього замовлення"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:283
+#, fuzzy
+#| msgid "Сondition"
+msgid "Condition"
+msgstr "Стан товару"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:287
+#: classes/system/class-yml-for-yandex-market.php:636
+msgid "Showcase sample"
+msgstr ""
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:288
+#: classes/system/class-yml-for-yandex-market.php:637
+#, fuzzy
+#| msgid "Instruction"
+msgid "Reduction"
+msgstr "Інструкція"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:289
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:290
+#: classes/system/class-yml-for-yandex-market.php:638
+#: classes/system/class-yml-for-yandex-market.php:639
+msgid "Fashionpreowned"
+msgstr ""
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:291
+#: classes/system/class-yml-for-yandex-market.php:640
+msgid "Like New"
+msgstr "Як новенький"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:295
+#: classes/system/class-yml-for-yandex-market.php:650
+msgid "Perfect"
+msgstr ""
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:296
+#: classes/system/class-yml-for-yandex-market.php:651
+msgid "Excellent"
+msgstr "Відмінний"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:297
+#: classes/system/class-yml-for-yandex-market.php:652
+msgid "Good"
+msgstr ""
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:310
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:316
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:319
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:322
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:325
+msgid "Name post_meta"
+msgstr "Ім'я метапол"
+
+# без
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:319
+msgid "for simple products"
+msgstr "для простих виробів"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:322
+msgid "for variable products"
+msgstr "для змінних продуктів"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:346
+#: classes/system/class-yfym-settings-page.php:644
+msgid "Only Excerpt description"
+msgstr "Тільки Короткий опис"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:347
+#: classes/system/class-yfym-settings-page.php:645
+msgid "Only Full description"
+msgstr "Тільки Повний опис"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:348
+#: classes/system/class-yfym-settings-page.php:646
+msgid "Excerpt or Full description"
+msgstr "Короткий або Повний опис"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:349
+#: classes/system/class-yfym-settings-page.php:647
+msgid "Full or Excerpt description"
+msgstr "Повне або Короткий опис"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:350
+#: classes/system/class-yfym-settings-page.php:648
+msgid "Excerpt plus Full description"
+msgstr "Короткий плюс Повний опис"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:351
+#: classes/system/class-yfym-settings-page.php:649
+msgid "Full plus Excerpt description"
+msgstr "Повний плюс Короткий опис"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:364
+msgid "Add from products ID"
+msgstr "Додати з ID товарів"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:384
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:388
+msgid "Add to all"
+msgstr "Додати до всіх"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:392
+msgid "Substitute from SKU"
+msgstr "Підставляти з Артикул"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:396
+msgid "Substitute from post meta"
+msgstr "Підставляти з метапол"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:400
+msgid "Default value from field"
+msgstr "Значення за промовчанням з поля"
+
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:405
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:411
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:417
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:420
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:423
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:426
+#: classes/system/class-yfym-settings-feed-wp-list-table.php:429
+msgid "Substitute from"
+msgstr "Підставляти з"
+
+#: classes/system/class-yfym-settings-page.php:24
+msgid "Exporter"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:50
+#: classes/system/class-yfym-wp-list-table.php:218
+msgid "No XML feed found"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:50
+msgid "Click the \"Add New Feed\" button at the top of this page"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:85
+msgid "Create feed"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:110
+msgid "a necessary extension for those who want to"
+msgstr "необхідне розширення для тих, хто хоче"
+
+#: classes/system/class-yfym-settings-page.php:110
+msgid "save on advertising budget"
+msgstr "економія на рекламному бюджеті"
+
+#: classes/system/class-yfym-settings-page.php:110
+msgid "on Yandex"
+msgstr "на Яндексі"
+
+#: classes/system/class-yfym-settings-page.php:110
+#: classes/system/class-yfym-settings-page.php:320
+msgid "Learn More"
+msgstr "Детальніше"
+
+#: classes/system/class-yfym-settings-page.php:120
+msgid "Add New Feed"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:139
+msgid "not created yet"
+msgstr "ще не створено"
+
+#: classes/system/class-yfym-settings-page.php:139
+msgid "updating"
+msgstr "оновлюється"
+
+#: classes/system/class-yfym-settings-page.php:139
+msgid "created"
+msgstr "створений"
+
+#: classes/system/class-yfym-settings-page.php:141
+msgid "Instruction"
+msgstr "Інструкція"
+
+#: classes/system/class-yfym-settings-page.php:141
+msgid "How to create a YML-feed"
+msgstr "Як створити YML-фід"
+
+#: classes/system/class-yfym-settings-page.php:144
+#: classes/system/class-yfym-settings-page.php:151
+msgid "We are working on automatic file creation. YML will be developed soon"
+msgstr "Йде автоматичне створення файлу. Yml-фід незабаром буде створено"
+
+#: classes/system/class-yfym-settings-page.php:146
+msgid ""
+"In order to do that, select another menu entry (which differs from \"off\") "
+"in the box called \"Automatic file creation\". You can also change values in "
+"other boxes if necessary, then press \"Save\""
+msgstr ""
+"Для цього в поле \"Автоматичне створення файлу\" виставите значення, "
+"відмінне від значення \"відключено\", при необхідності змініть значення "
+"інших полів і натисніть \"Зберегти\""
+
+#: classes/system/class-yfym-settings-page.php:147
+msgid ""
+"After 1-7 minutes (depending on the number of products), the feed will be "
+"generated and a link will appear instead of this message"
+msgstr ""
+"Через 1 - 7 хвилин (залежить від числа товарів), фід буде згенеровано і "
+"замість цього повідомлення з'явиться посилання"
+
+#: classes/system/class-yfym-settings-page.php:153
+msgid "Your feed here"
+msgstr "Ваш фід тут"
+
+#: classes/system/class-yfym-settings-page.php:154
+msgid "File size"
+msgstr "Розмір файлу"
+
+#: classes/system/class-yfym-settings-page.php:163
+msgid "Start of generation"
+msgstr "Початок генерації"
+
+#: classes/system/class-yfym-settings-page.php:164
+#: classes/system/class-yfym-wp-list-table.php:38
+msgid "Generated"
+msgstr "Згенерований"
+
+#: classes/system/class-yfym-settings-page.php:165
+#: classes/system/class-yfym-wp-list-table.php:39
+msgid "Products"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:174
+msgid "Main settings"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:175
+#: classes/system/class-yfym-settings-page.php:338
+msgid "Shop data"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:176
+msgid "Attribute settings"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:177
+#: classes/system/class-yfym-settings-page.php:626
+msgid "Filtration"
+msgstr "Фільтрування"
+
+#: classes/system/class-yfym-settings-page.php:212
+msgid "Main parameters"
+msgstr "Основні параметри"
+
+#: classes/system/class-yfym-settings-page.php:216
+#: classes/system/class-yfym-wp-list-table.php:36
+msgid "Automatic file creation"
+msgstr "Автоматичне створення файлів"
+
+#: classes/system/class-yfym-settings-page.php:219
+#: classes/system/class-yfym-wp-list-table.php:75
+msgid "Off"
+msgstr "Відключено"
+
+#: classes/system/class-yfym-settings-page.php:221
+#: classes/system/class-yfym-wp-list-table.php:76
+msgid "Every five minutes"
+msgstr "Кожні п'ять хвилин"
+
+#: classes/system/class-yfym-settings-page.php:223
+#: classes/system/class-yfym-wp-list-table.php:77
+msgid "Hourly"
+msgstr "Раз на годину"
+
+#: classes/system/class-yfym-settings-page.php:224
+#: classes/system/class-yfym-wp-list-table.php:78
+msgid "Every six hours"
+msgstr "Кожні шість годин"
+
+#: classes/system/class-yfym-settings-page.php:225
+#: classes/system/class-yfym-wp-list-table.php:79
+msgid "Twice a day"
+msgstr "2 рази в день"
+
+#: classes/system/class-yfym-settings-page.php:226
+#: classes/system/class-yfym-wp-list-table.php:80
+msgid "Daily"
+msgstr "Раз на день"
+
+#: classes/system/class-yfym-settings-page.php:227
+#: classes/system/class-yfym-wp-list-table.php:81
+msgid "Once a week"
+msgstr "Раз на тиждень"
+
+#: classes/system/class-yfym-settings-page.php:229
+msgid "The refresh interval on your feed"
+msgstr "Інтервал оновлення вашого фіда"
+
+#: classes/system/class-yfym-settings-page.php:233
+msgid "Update feed when updating products"
+msgstr "Оновити фід при оновленні картки товару"
+
+#: classes/system/class-yfym-settings-page.php:240
+#: classes/system/class-yfym-wp-list-table.php:70
+msgid "Feed assignment"
+msgstr "Призначення фіда"
+
+#: classes/system/class-yfym-settings-page.php:242
+msgid "For Yandex Market"
+msgstr "Для Яндекс Маркету"
+
+#: classes/system/class-yfym-settings-page.php:243
+msgid "Not used in feed. Inner note for your convenience"
+msgstr "Не використовуєтся в фіді. Внутрішня замітка для вашої зручності"
+
+#: classes/system/class-yfym-settings-page.php:247
+msgid "Feed file extension"
+msgstr "Розширення фіда"
+
+#: classes/system/class-yfym-settings-page.php:250
+#: classes/system/class-yfym-settings-page.php:271
+msgid "recommend"
+msgstr "рекомендується"
+
+#: classes/system/class-yfym-settings-page.php:254
+#: classes/system/class-yfym-settings-page.php:264
+#: classes/system/class-yfym-settings-page.php:275
+#: classes/system/class-yfym-settings-page.php:582
+#: classes/system/class-yfym-settings-page.php:670
+#: classes/system/class-yfym-settings-page.php:684
+#: classes/system/class-yfym-settings-page.php:725
+#: classes/system/class-yfym-settings-page.php:730
+#: classes/system/class-yml-for-yandex-market.php:634
+#: classes/system/class-yml-for-yandex-market.php:649
+#: classes/system/class-yml-for-yandex-market.php:790
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: classes/system/class-yfym-settings-page.php:258
+msgid "Archive to ZIP"
+msgstr "Архів у форматі ZIP"
+
+#: classes/system/class-yfym-settings-page.php:268
+msgid "Format date"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:279
+msgid "To follow the rules"
+msgstr "Слідувати правилам"
+
+#: classes/system/class-yfym-settings-page.php:282
+#: classes/system/class-yfym-settings-page.php:283
+msgid "Yandex Market"
+msgstr "Яндекс Маркет"
+
+# Без перевода был
+#: classes/system/class-yfym-settings-page.php:282
+#: classes/system/class-yfym-settings-page.php:283
+msgid "Simplified type"
+msgstr "Спрощений тип"
+
+#: classes/system/class-yfym-settings-page.php:284
+msgid "in a single catalog"
+msgstr "в єдиному каталозі"
+
+#: classes/system/class-yfym-settings-page.php:285
+#: classes/system/class-yfym-settings-page.php:359
+msgid "SberMegaMarket"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:286
+msgid "Former Beru"
+msgstr "Колишній Беру"
+
+#: classes/system/class-yfym-settings-page.php:287
+#, fuzzy
+#| msgid "Yandex Market"
+msgid "Yandex Webmaster"
+msgstr "Яндекс Маркет"
+
+#: classes/system/class-yfym-settings-page.php:288
+msgid "No rules"
+msgstr "Без правил"
+
+# без
+#: classes/system/class-yfym-settings-page.php:288
+msgid "Not recommended"
+msgstr "Не рекомендовано"
+
+#: classes/system/class-yfym-settings-page.php:294
+msgid "Exclude products that do not meet the requirements"
+msgstr "Виключити товари, які не відповідають вимогам"
+
+#: classes/system/class-yfym-settings-page.php:294
+msgid "missing required elements/data"
+msgstr "відсутні необхідні елементи/дані"
+
+#: classes/system/class-yfym-settings-page.php:294
+msgid ""
+"The plugin will try to automatically remove products from the YML-feed for "
+"which the required fields for the feed are not filled"
+msgstr ""
+"Плагін спробує автоматично видалити товари з YML-фіда, для яких не заповнені "
+"обов'язкові поля для фіда"
+
+#: classes/system/class-yfym-settings-page.php:294
+msgid "Also, this item affects the structure of the file"
+msgstr "Крім того, цей пункт впливає на структуру файлу"
+
+#: classes/system/class-yfym-settings-page.php:298
+#: classes/system/class-yfym-wp-list-table.php:37
+msgid "Step of export"
+msgstr "Крок експорту"
+
+#: classes/system/class-yfym-settings-page.php:310
+msgid "The value affects the speed of file creation"
+msgstr "Значення впливає на швидкість створення YML фіда"
+
+#: classes/system/class-yfym-settings-page.php:310
+msgid ""
+"If you have any problems with the generation of the file - try to reduce the "
+"value in this field"
+msgstr ""
+"Якщо у вас виникли проблеми з генерацією файлу - спробуйте зменшити значення "
+"в даному полі"
+
+#: classes/system/class-yfym-settings-page.php:310
+msgid "More than 500 can only be installed on powerful servers"
+msgstr "Понад 500 можуть бути встановлені тільки на потужних серверах"
+
+#: classes/system/class-yfym-settings-page.php:314
+msgid "Ignore plugin cache"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:320
+msgid ""
+"Changing this option can be useful if your feed prices don't change after "
+"syncing"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:342
+msgid "Shop name"
+msgstr "Назва магазину"
+
+#: classes/system/class-yfym-settings-page.php:345
+#: classes/system/class-yfym-settings-page.php:352
+#: classes/system/class-yfym-settings-page.php:498
+#: classes/system/class-yfym-settings-page.php:505
+#: classes/system/class-yfym-settings-page.php:527
+#: classes/system/class-yfym-settings-page.php:534
+#: classes/system/class-yfym-settings-page.php:555
+#: classes/system/class-yfym-settings-page.php:562
+#: classes/system/class-yml-for-yandex-market.php:515
+#: classes/system/class-yml-for-yandex-market.php:527
+#: classes/system/class-yml-for-yandex-market.php:563
+#: classes/system/class-yml-for-yandex-market.php:575
+#: classes/system/class-yml-for-yandex-market.php:654
+#: classes/system/class-yml-for-yandex-market.php:662
+msgid "Required element"
+msgstr "Обов'язковий елемент"
+
+#: classes/system/class-yfym-settings-page.php:345
+msgid "The short name of the store should not exceed 20 characters"
+msgstr "Коротка назва магазину, повинно містити не більше 20 символів"
+
+#: classes/system/class-yfym-settings-page.php:349
+msgid "Company name"
+msgstr "Назва компанії"
+
+#: classes/system/class-yfym-settings-page.php:352
+msgid "Full name of the company that owns the store"
+msgstr "Повне найменування компанії, що володіє магазином"
+
+#: classes/system/class-yfym-settings-page.php:356
+msgid "Warehouse"
+msgstr "Склад"
+
+#: classes/system/class-yfym-settings-page.php:359
+#, fuzzy
+#| msgid "Warehouse name or ID"
+msgid "Warehouse name"
+msgstr "Назва або ідентифікатор складу"
+
+#: classes/system/class-yfym-settings-page.php:359
+msgid "or ID"
+msgstr ""
+
+# без
+#: classes/system/class-yfym-settings-page.php:363
+msgid "Element \"currencies\""
+msgstr "Елемент \"валюти\""
+
+# без
+#: classes/system/class-yfym-settings-page.php:372
+msgid "What kind of products do you sell"
+msgstr "Яку продукцію ви продаєте"
+
+#: classes/system/class-yfym-settings-page.php:375
+msgid "Electronics"
+msgstr "Електроніка"
+
+#: classes/system/class-yfym-settings-page.php:376
+msgid "Computer techologies"
+msgstr "Комп'ютери"
+
+#: classes/system/class-yfym-settings-page.php:377
+msgid "Clothes and shoes"
+msgstr "Одяг та взуття"
+
+#: classes/system/class-yfym-settings-page.php:378
+msgid "Auto parts"
+msgstr "Автозапчастини"
+
+#: classes/system/class-yfym-settings-page.php:379
+msgid "Products for children"
+msgstr "Товари для дітей"
+
+#: classes/system/class-yfym-settings-page.php:380
+msgid "Sporting goods"
+msgstr "Спортивні товари"
+
+#: classes/system/class-yfym-settings-page.php:381
+msgid "Goods for pets"
+msgstr "Товари для домашніх тварин"
+
+#: classes/system/class-yfym-settings-page.php:382
+msgid "Sex shop (Adult products)"
+msgstr "Секс-шоп (Товари для дорослих)"
+
+#: classes/system/class-yfym-settings-page.php:383
+msgid "Books"
+msgstr "Книги"
+
+#: classes/system/class-yfym-settings-page.php:384
+msgid "Health products"
+msgstr "Товари для здоров'я"
+
+#: classes/system/class-yfym-settings-page.php:385
+msgid "Food"
+msgstr "Їжа"
+
+#: classes/system/class-yfym-settings-page.php:386
+msgid "Construction Materials"
+msgstr "Будівельні Матеріали"
+
+#: classes/system/class-yfym-settings-page.php:387
+#: classes/system/class-yml-for-yandex-market.php:776
+msgid "Other"
+msgstr "Інше"
+
+#: classes/system/class-yfym-settings-page.php:389
+msgid "Specify the main category"
+msgstr "Вкажіть основну категорію"
+
+#: classes/system/class-yfym-settings-page.php:393
+msgid "Adult Market"
+msgstr "Магазин для дорослих"
+
+#: classes/system/class-yfym-settings-page.php:399
+#: classes/system/class-yfym-settings-page.php:491
+#: classes/system/class-yfym-settings-page.php:512
+#: classes/system/class-yfym-settings-page.php:520
+#: classes/system/class-yfym-settings-page.php:541
+#: classes/system/class-yfym-settings-page.php:569
+#: classes/system/class-yfym-settings-page.php:597
+#: classes/system/class-yml-for-yandex-market.php:507
+#: classes/system/class-yml-for-yandex-market.php:535
+#: classes/system/class-yml-for-yandex-market.php:556
+#: classes/system/class-yml-for-yandex-market.php:583
+#: classes/system/class-yml-for-yandex-market.php:598
+#: classes/system/class-yml-for-yandex-market.php:616
+#: classes/system/class-yml-for-yandex-market.php:642
+#: classes/system/class-yml-for-yandex-market.php:677
+#: classes/system/class-yml-for-yandex-market.php:684
+#: classes/system/class-yml-for-yandex-market.php:711
+#: classes/system/class-yml-for-yandex-market.php:719
+#: classes/system/class-yml-for-yandex-market.php:728
+#: classes/system/class-yml-for-yandex-market.php:737
+#: classes/system/class-yml-for-yandex-market.php:745
+#: classes/system/class-yml-for-yandex-market.php:754
+#: classes/system/class-yml-for-yandex-market.php:783
+#: classes/system/class-yml-for-yandex-market.php:794
+#: classes/system/class-yml-for-yandex-market.php:799
+msgid "Optional element"
+msgstr "Необов'язковий елемент"
+
+#: classes/system/class-yfym-settings-page.php:406
+msgid "Feed currency"
+msgstr "Валюта фіда"
+
+#: classes/system/class-yfym-settings-page.php:413
+msgid "You have plugin installed"
+msgstr "У вас встановлений плагін"
+
+#: classes/system/class-yfym-settings-page.php:414
+msgid "Indicate in what currency the prices should be"
+msgstr "Вкажіть, у якій валюті повинні бути ціни"
+
+#: classes/system/class-yfym-settings-page.php:414
+msgid "Please note"
+msgstr "Будь ласка, зверніть увагу"
+
+#: classes/system/class-yfym-settings-page.php:414
+msgid "Yandex Market only supports the following currencies"
+msgstr "Яндекс Маркет підтримує тільки такі валюти"
+
+#: classes/system/class-yfym-settings-page.php:414
+msgid "Choosing a different currency can lead to errors"
+msgstr "Вибір іншої валюти може призвести до помилок"
+
+#: classes/system/class-yfym-settings-page.php:449
+msgid "Tags settings"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:453
+msgid "Categories of variable products for which group_id is not allowed"
+msgstr "Категорії варіативних товарів для яких заборонений group_id"
+
+#: classes/system/class-yfym-settings-page.php:459
+msgid ""
+"According to Yandex Market rules in this field you need to mark ALL "
+"categories of products not related to \"Clothes, Shoes and Accessories\", "
+"\"Furniture\", \"Cosmetics, perfumes and care\", \"Baby products\", "
+"\"Accessories for portable electronics\". Ie categories for which it is "
+"forbidden to use the attribute group_id"
+msgstr ""
+"Згідно з правилами Яндекс Маркету, в цьому полі необхідно зазначити ВСІ "
+"категорії товарів, не відносяться до \"Одягу, взуття та аксесуарів\", "
+"\"Меблі\", \"Косметиці, парфумерії та догляду\", \"Дитячих товарів\", "
+"\"Аксесуарів для портативної електроніки\". Тобто категорії, для яких "
+"заборонено використовувати атрибут group_id"
+
+#: classes/system/class-yfym-settings-page.php:463
+msgid "Add attributes to the variable products name"
+msgstr "Додавати атрибути в назву варіативних товарів"
+
+#: classes/system/class-yfym-settings-page.php:463
+msgid ""
+"You can only add attributes that are used for variations and that cannot be "
+"grouped using"
+msgstr ""
+"Можна додавати тільки атрибути, які використовуються для варіацій і які не "
+"можуть бути об'єднані за допомогою"
+
+#: classes/system/class-yfym-settings-page.php:470
+msgid ""
+"It works only for variable products that are not in the category \"Clothes, "
+"Shoes and Accessories\", \"Furniture\", \"Cosmetics, perfumes and care\", "
+"\"Baby products\", \"Accessories for portable electronics\""
+msgstr ""
+"Він працює тільки для змінних товарів, які не відносяться до категорії "
+"\"Одяг, взуття та аксесуари\", \"Меблі\", \"Косметика, парфумерія та засоби "
+"догляду\", \"Дитячі товари\", \"Аксесуари для портативної електроніки\"."
+
+#: classes/system/class-yfym-settings-page.php:474
+#: classes/system/class-yfym-settings-page.php:483
+msgid "Separator options"
+msgstr "Варіанти розділювача"
+
+#: classes/system/class-yfym-settings-page.php:477
+#: classes/system/class-yfym-settings-page.php:478
+#: classes/system/class-yfym-settings-page.php:479
+#: classes/system/class-yfym-settings-page.php:480
+msgid "Type"
+msgstr "Тип"
+
+#: classes/system/class-yfym-settings-page.php:488
+msgid "Add"
+msgstr "Додати"
+
+#: classes/system/class-yfym-settings-page.php:488
+msgid "pickup of products"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:491
+#: classes/system/class-yfym-settings-page.php:520
+#: classes/system/class-yfym-settings-page.php:548
+#: classes/system/class-yml-for-yandex-market.php:496
+#: classes/system/class-yml-for-yandex-market.php:598
+#: classes/system/class-yml-for-yandex-market.php:616
+#: classes/system/class-yml-for-yandex-market.php:677
+#: classes/system/class-yml-for-yandex-market.php:684
+#: classes/system/class-yml-for-yandex-market.php:711
+#: classes/system/class-yml-for-yandex-market.php:719
+#: classes/system/class-yml-for-yandex-market.php:728
+#: classes/system/class-yml-for-yandex-market.php:737
+#: classes/system/class-yml-for-yandex-market.php:745
+#: classes/system/class-yml-for-yandex-market.php:754
+#: classes/system/class-yml-for-yandex-market.php:783
+#: classes/system/class-yml-for-yandex-market.php:794
+#: classes/system/class-yml-for-yandex-market.php:799
+#: classes/system/class-yml-for-yandex-market.php:805 extensions.php:51
+#: extensions.php:120
+msgid "Read more on Yandex"
+msgstr "Детальніше читайте на Яндексі"
+
+#: classes/system/class-yfym-settings-page.php:495
+#: classes/system/class-yml-for-yandex-market.php:562
+msgid "Pickup cost"
+msgstr "Вартість самовивозу"
+
+#: classes/system/class-yfym-settings-page.php:498
+#: classes/system/class-yfym-settings-page.php:505
+#: classes/system/class-yfym-settings-page.php:512
+#: classes/system/class-yfym-settings-page.php:527
+#: classes/system/class-yfym-settings-page.php:534
+#: classes/system/class-yfym-settings-page.php:541
+#: classes/system/class-yfym-settings-page.php:555
+#: classes/system/class-yfym-settings-page.php:562
+#: classes/system/class-yfym-settings-page.php:569
+#: classes/system/class-yml-for-yandex-market.php:515
+#: classes/system/class-yml-for-yandex-market.php:527
+#: classes/system/class-yml-for-yandex-market.php:535
+#: classes/system/class-yml-for-yandex-market.php:563
+#: classes/system/class-yml-for-yandex-market.php:575
+#: classes/system/class-yml-for-yandex-market.php:583
+#: classes/system/class-yml-for-yandex-market.php:654
+#: classes/system/class-yml-for-yandex-market.php:662
+msgid "of attribute"
+msgstr "атрибута"
+
+#: classes/system/class-yfym-settings-page.php:502
+#: classes/system/class-yml-for-yandex-market.php:574
+msgid "Pickup days"
+msgstr "Термін самовивозу"
+
+#: classes/system/class-yfym-settings-page.php:509
+#: classes/system/class-yfym-settings-page.php:538
+#: classes/system/class-yfym-settings-page.php:566
+#: classes/system/class-yml-for-yandex-market.php:534
+#: classes/system/class-yml-for-yandex-market.php:582
+msgid "The time"
+msgstr "Час"
+
+#: classes/system/class-yfym-settings-page.php:512
+#: classes/system/class-yfym-settings-page.php:541
+#: classes/system/class-yfym-settings-page.php:569
+#: classes/system/class-yml-for-yandex-market.php:535
+#: classes/system/class-yml-for-yandex-market.php:583
+msgid "The time in which you need to place an order to get it at this time"
+msgstr ""
+"Час, до якого потрібно зробити замовлення, щоб отримати його в цей термін"
+
+#: classes/system/class-yfym-settings-page.php:517
+msgid "Use delivery-options"
+msgstr "Використовувати delivery-options"
+
+#: classes/system/class-yfym-settings-page.php:524
+#: classes/system/class-yfym-settings-page.php:552
+#: classes/system/class-yml-for-yandex-market.php:513
+msgid "Delivery cost"
+msgstr "Вартість доставки"
+
+#: classes/system/class-yfym-settings-page.php:531
+#: classes/system/class-yfym-settings-page.php:559
+#: classes/system/class-yml-for-yandex-market.php:526
+msgid "Delivery days"
+msgstr "Термін доставки"
+
+#: classes/system/class-yfym-settings-page.php:545
+msgid "Add a second delivery methods"
+msgstr "Додайте другий спосіб доставки"
+
+#: classes/system/class-yfym-settings-page.php:548
+msgid "Add a second delivery methods to"
+msgstr "Додайте другий спосіб доставки до"
+
+# Без
+#: classes/system/class-yfym-settings-page.php:573
+msgid "Add information about stock to feed for EBay"
+msgstr "Додайте інформацію про запас для фіда EBay"
+
+#: classes/system/class-yfym-settings-page.php:579
+#, fuzzy
+#| msgid "Include these attributes in the values Param"
+msgid "If the attribute has multiple values"
+msgstr "Включити ці атрибути в фід"
+
+#: classes/system/class-yfym-settings-page.php:582
+msgid "No split"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:583
+msgid "Split"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:589
+msgid "Include these attributes in the values Param"
+msgstr "Включити ці атрибути в фід"
+
+#: classes/system/class-yfym-settings-page.php:598
+msgid "Hint"
+msgstr "Підказка"
+
+#: classes/system/class-yfym-settings-page.php:598
+msgid ""
+"To select multiple values, hold down the (ctrl) button on Windows or (cmd) "
+"on a Mac. To deselect, press and hold (ctrl) or (cmd), click on the marked "
+"items"
+msgstr ""
+"Щоб вибрати кілька значень, утримуючи кнопку (ctrl) в Windows або (cmd) на "
+"Mac. Щоб скасувати вибір, натисніть і утримуйте (ctrl) або (cmd), натисніть "
+"на зазначені елементи"
+
+#: classes/system/class-yfym-settings-page.php:630
+#: classes/system/class-yfym-settings-page.php:637
+msgid "Whot export"
+msgstr "що експортувати"
+
+#: classes/system/class-yfym-settings-page.php:633
+msgid "Simple & Variable products"
+msgstr "Варіативні і звичайні товари"
+
+#: classes/system/class-yfym-settings-page.php:634
+msgid "Only simple products"
+msgstr "Тільки прості продукти"
+
+#: classes/system/class-yfym-settings-page.php:641
+msgid "Description of the product"
+msgstr "Опис товару"
+
+#: classes/system/class-yfym-settings-page.php:653
+msgid "The source of the description"
+msgstr "Джерело опису товару"
+
+#: classes/system/class-yfym-settings-page.php:667
+msgid "List of allowed tags"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:671
+msgid "From the field below"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:674
+msgid "For example"
+msgstr "Приклад"
+
+#: classes/system/class-yfym-settings-page.php:678
+msgid "Use the filter"
+msgstr "Використовуйте фільтр"
+
+#: classes/system/class-yfym-settings-page.php:688
+msgid "Change the domain to"
+msgstr "Змініть домен на"
+
+#: classes/system/class-yfym-settings-page.php:691
+msgid ""
+"The option allows you to change the domain of your site in the feed to any "
+"other"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:695
+msgid "The varition description takes precedence over others"
+msgstr "Опис варіації має пріоритет над іншими"
+
+#: classes/system/class-yfym-settings-page.php:701
+msgid "Clear URL from GET-paramrs"
+msgstr "Очистити URL від GET-параметрів"
+
+#: classes/system/class-yfym-settings-page.php:707
+msgid "This option may be useful when setting up Turbo pages"
+msgstr "Ця опція може бути корисна при налаштуванні турбо-сторінок"
+
+#: classes/system/class-yfym-settings-page.php:708
+msgid "Tips for configuring Turbo pages"
+msgstr "Поради по налаштуванню турбо-сторінок"
+
+#: classes/system/class-yfym-settings-page.php:712
+#: classes/system/class-yfym-settings-page.php:718
+msgid "For pre-order products, establish availability equal to"
+msgstr "Для продуктів попереднього замовлення встановіть доступність, рівну"
+
+#: classes/system/class-yfym-settings-page.php:722
+msgid "In attributes"
+msgstr "В атрибутах"
+
+#: classes/system/class-yfym-settings-page.php:722
+msgid "and"
+msgstr "і"
+
+#: classes/system/class-yfym-settings-page.php:722
+msgid "ampersand"
+msgstr "амперсанд"
+
+#: classes/system/class-yfym-settings-page.php:726
+#: classes/system/class-yfym-settings-page.php:730
+#: classes/system/class-yfym-wp-list-table.php:201
+msgid "Delete"
+msgstr "Видалити"
+
+#: classes/system/class-yfym-settings-page.php:727
+#: classes/system/class-yfym-settings-page.php:728
+msgid "Replace with"
+msgstr "Замінити на"
+
+#: classes/system/class-yfym-settings-page.php:734
+msgid "except for products for which a pre-order is permitted"
+msgstr "за винятком товарів, яким надано дозвіл на попереднє замовлення"
+
+#: classes/system/class-yfym-settings-page.php:746
+msgid "Remove default.png from YML"
+msgstr "Видалити default.png з YML"
+
+#: classes/system/class-yfym-settings-page.php:752
+msgid "Skip products without pictures"
+msgstr "Пропустити товари без картинок"
+
+#: classes/system/class-yfym-settings-page.php:800
+msgid "My plugins that may interest you"
+msgstr "Мої плагіни, які можуть вас зацікавити"
+
+#: classes/system/class-yfym-settings-page.php:802
+msgid "Сreates a XML-feed to upload to Google Merchant Center"
+msgstr "Створює XML-фід для завантаження в Google Merchant Center"
+
+#: classes/system/class-yfym-settings-page.php:803
+msgid "Сreates a YML-feed for importing your products to Yandex Market"
+msgstr "Створює YML-фід для імпорту ваших товарів на Яндекс Маркет"
+
+#: classes/system/class-yfym-settings-page.php:804
+msgid "Imports products from YML to your shop"
+msgstr ""
+"У oldprice вказується стара ціна товару, яка обов'язково повинна бути вище "
+"нової ціни (price)"
+
+#: classes/system/class-yfym-settings-page.php:805
+msgid ""
+"This plugin helps setting up myTarget counter for dynamic remarketing for "
+"WooCommerce"
+msgstr ""
+
+#: classes/system/class-yfym-settings-page.php:806
+msgid "Сreates a XML-feed for importing your products to Hotline"
+msgstr "Створює XML-фід для імпорту ваших товарів на Hotline"
+
+#: classes/system/class-yfym-settings-page.php:807
+msgid ""
+"This plugin will add a marketing tool that will allow you to give gifts to "
+"the buyer upon purchase"
+msgstr ""
+"Цей плагін додасть маркетинговий інструмент, який дозволить вам дарувати "
+"подарунки покупцеві при купівлі"
+
+#: classes/system/class-yfym-settings-page.php:808
+msgid "With this plugin, you can import products to your group on ok.ru"
+msgstr ""
+"За допомогою цього плагіна ви можете імпортувати товари в свою групу на ok.ru"
+
+#: classes/system/class-yfym-settings-page.php:809
+#: classes/system/class-yfym-settings-page.php:810
+msgid "Сreates a XML-feed for importing your products to"
+msgstr "Створює XML-фід для імпорту ваших товарів на"
+
+#: classes/system/class-yfym-settings-page.php:991
+msgid "Feed added"
+msgstr ""
+
+#: classes/system/class-yfym-wp-list-table.php:34
+msgid "Feed ID"
+msgstr "Фід ID"
+
+#: classes/system/class-yfym-wp-list-table.php:35
+msgid "YML File"
+msgstr ""
+
+#: classes/system/class-yfym-wp-list-table.php:64
+msgid "Not created yet"
+msgstr "Ще не створено"
+
+#: classes/system/class-yfym-wp-list-table.php:82
+msgid "Don't start"
+msgstr ""
+
+#: classes/system/class-yfym-wp-list-table.php:177
+msgid "Edit"
+msgstr "Редагувати"
+
+#: classes/system/class-yml-for-yandex-market.php:257
+msgid "Creating the feed is running. You can continue working with the website"
+msgstr "Створення YML-фіда запущено. Ви можете продовжити роботу з сайтом"
+
+#: classes/system/class-yml-for-yandex-market.php:270
+msgid "More features"
+msgstr "Додаткові функції"
+
+#: classes/system/class-yml-for-yandex-market.php:272
+msgid "Settings"
+msgstr "Налаштування"
+
+#: classes/system/class-yml-for-yandex-market.php:288
+msgid "Export Yandex Market"
+msgstr "Експорт Яндекс Маркет"
+
+#: classes/system/class-yml-for-yandex-market.php:291
+msgid "Debug"
+msgstr "Налагодження"
+
+#: classes/system/class-yml-for-yandex-market.php:294
+msgid "Add Extensions"
+msgstr "Додати розширення"
+
+#: classes/system/class-yml-for-yandex-market.php:294
+msgid "Extensions"
+msgstr "Розширення"
+
+#: classes/system/class-yml-for-yandex-market.php:472
+msgid "YML for Yandex Market"
+msgstr "YML для Яндекс Маркету"
+
+#: classes/system/class-yml-for-yandex-market.php:495
+msgid "Individual product settings for YML-feed"
+msgstr "Індивідуальні настройки товару для YML-фіда"
+
+#: classes/system/class-yml-for-yandex-market.php:496
+msgid "Here you can set up individual options terms for this product"
+msgstr "Тут ви можете налаштувати індивідуальні умови для даного продукту"
+
+#: classes/system/class-yml-for-yandex-market.php:545
+msgid "Here you can configure the pickup conditions for this product"
+msgstr ""
+"Тут ви можете налаштувати індивідуальні умови самовивозу для даного товару"
+
+#: classes/system/class-yml-for-yandex-market.php:592
+#: classes/system/class-yml-for-yandex-market.php:597
+msgid "Bid values"
+msgstr "Значення ставок"
+
+#: classes/system/class-yml-for-yandex-market.php:592
+#: classes/system/class-yml-for-yandex-market.php:632
+msgid "Сondition"
+msgstr "Стан товару"
+
+#: classes/system/class-yml-for-yandex-market.php:598
+msgid ""
+"Bid values in your price list. Specify the bid amount in Yandex cents: for "
+"example, the value 80 corresponds to the bid of 0.8 Yandex units. The values "
+"must be positive integers"
+msgstr ""
+"Значення ставок в прайс-листі. Вказуйфте розмір ставки в умовних центах: "
+"наприклад, значення 80 відповідає ставці 0,8 у. е. Значення повинні бути "
+"цілими і позитивними числами"
+
+#: classes/system/class-yml-for-yandex-market.php:606
+msgid "Use global settings"
+msgstr "Використовуйте глобальні налаштування"
+
+#: classes/system/class-yml-for-yandex-market.php:647
+msgid "Quality"
+msgstr ""
+
+#: classes/system/class-yml-for-yandex-market.php:660
+msgid "Reason"
+msgstr "Причина"
+
+#: classes/system/class-yml-for-yandex-market.php:670
+msgid "This data is used only when creating a feed for"
+msgstr "Ці дані використовуються тільки при створенні фіда для"
+
+#: classes/system/class-yml-for-yandex-market.php:675
+msgid "Product ID on Yandex"
+msgstr "ІД продукту на Яндексі"
+
+#: classes/system/class-yml-for-yandex-market.php:677
+#: classes/system/class-yml-for-yandex-market.php:684
+#: classes/system/class-yml-for-yandex-market.php:711
+#: classes/system/class-yml-for-yandex-market.php:719
+#: classes/system/class-yml-for-yandex-market.php:728
+#: classes/system/class-yml-for-yandex-market.php:737
+#: classes/system/class-yml-for-yandex-market.php:745
+#: classes/system/class-yml-for-yandex-market.php:754
+msgid "Forbidden in Yandex Market"
+msgstr "Заборонено в Яндекс Маркеті"
+
+#: classes/system/class-yml-for-yandex-market.php:677
+msgid ""
+"Product ID on Yandex. You can get it after downloading the file in your "
+"personal account"
+msgstr ""
+"Ідентифікатор продукту на Яндексі. Ви можете отримати його після "
+"завантаження файлу в своєму особистому кабінеті"
+
+#: classes/system/class-yml-for-yandex-market.php:682
+msgid "Code ТН ВЭД"
+msgstr "Код ТН ЗЕД (ВЭД)"
+
+#: classes/system/class-yml-for-yandex-market.php:703
+msgid "Supply plans"
+msgstr "Плани поставок"
+
+#: classes/system/class-yml-for-yandex-market.php:707
+msgid "Supplies will"
+msgstr "Припаси будуть"
+
+#: classes/system/class-yml-for-yandex-market.php:708
+msgid "There will be no supplies"
+msgstr "Поставок не буде"
+
+#: classes/system/class-yml-for-yandex-market.php:709
+msgid "Product in the archive"
+msgstr "Товар в архіві"
+
+#: classes/system/class-yml-for-yandex-market.php:715
+msgid "The number of products in the package (multiplicity of the box)"
+msgstr "Кількість товарів в упаковці (кратність короба)"
+
+#: classes/system/class-yml-for-yandex-market.php:724
+msgid "Minimum delivery pieces"
+msgstr "Мінімальна партія поставки"
+
+#: classes/system/class-yml-for-yandex-market.php:733
+msgid "Additional batch (quantum of delivery)"
+msgstr "Додаткова партія (квант поставки)"
+
+#: classes/system/class-yml-for-yandex-market.php:742
+msgid "Lead time"
+msgstr "Термін поставки"
+
+#: classes/system/class-yml-for-yandex-market.php:750
+msgid "Box count"
+msgstr "Кількість місць"
+
+#: classes/system/class-yml-for-yandex-market.php:760
+msgid ""
+"Days of the week when you are ready to deliver the goods to the warehouse of "
+"the marketplace"
+msgstr "Дні тижня, коли ви готові поставляти товари на склад маркетплейса"
+
+#: classes/system/class-yml-for-yandex-market.php:763
+msgid "Monday"
+msgstr "Понеділок"
+
+#: classes/system/class-yml-for-yandex-market.php:764
+msgid "Tuesday"
+msgstr "Вівторок"
+
+#: classes/system/class-yml-for-yandex-market.php:765
+msgid "Wednesday"
+msgstr "Середа"
+
+#: classes/system/class-yml-for-yandex-market.php:766
+msgid "Thursday"
+msgstr "Четвер"
+
+#: classes/system/class-yml-for-yandex-market.php:767
+msgid "Friday"
+msgstr "П'ятниця"
+
+#: classes/system/class-yml-for-yandex-market.php:768
+msgid "Saturday"
+msgstr "Субота"
+
+#: classes/system/class-yml-for-yandex-market.php:769
+msgid "Sunday"
+msgstr "Неділя"
+
+#: classes/system/class-yml-for-yandex-market.php:781
+msgid "Credit program identifier"
+msgstr "ID кредитної програми"
+
+#: classes/system/class-yml-for-yandex-market.php:798
+msgid "of a third-party seller"
+msgstr "стороннього продавця"
+
+#: classes/system/class-yml-for-yandex-market.php:804
+msgid "Minimum number of products per order"
+msgstr "Мінімальна кількість товарів в замовленні"
+
+#: classes/system/class-yml-for-yandex-market.php:805
+#: classes/system/class-yml-for-yandex-market.php:811
+msgid "For these categories only"
+msgstr "Тільки для цих категорій"
+
+# Без
+#: classes/system/class-yml-for-yandex-market.php:840
+msgid "Price for Ozon Premium customers. Used only in the OZONE feed"
+msgstr "Ціна для клієнтів Ozon Premium. Використовується тільки в каналі OZONE"
+
+#: classes/system/class-yml-for-yandex-market.php:851
+msgid "Recommended retail price, type of price for suppliers"
+msgstr ""
+
+#: classes/system/class-yml-for-yandex-market.php:862
+#, fuzzy
+#| msgid "Minimum delivery pieces"
+msgid "Minimum price"
+msgstr "Мінімальна партія поставки"
+
+#: classes/system/class-yml-for-yandex-market.php:926
+msgid "plugin is active"
+msgstr "плагін активний"
+
+#: classes/system/class-yml-for-yandex-market.php:926
+msgid "If no YML feed is being generated, please"
+msgstr "Якщо канал YML не створюється, будь ласка"
+
+#: classes/system/class-yml-for-yandex-market.php:926
+#: classes/system/class-yml-for-yandex-market.php:954
+#: classes/system/class-yml-for-yandex-market.php:960
+msgid "read this guide"
+msgstr "прочитайте це керівництво"
+
+#: classes/system/class-yml-for-yandex-market.php:954
+msgid "Category list import"
+msgstr ""
+
+#: classes/system/class-yml-for-yandex-market.php:954
+#: classes/system/class-yml-for-yandex-market.php:960
+msgid ""
+"If the progress indicators have not changed within 20 minutes, try reducing "
+"the \"Step of export\" in the plugin settings"
+msgstr ""
+"Якщо індикатори прогресу не змінилися протягом 20 хвилин, спробуйте зменшити "
+"\"Крок експорту\" в налаштуваннях плагіна"
+
+#: classes/system/class-yml-for-yandex-market.php:954
+#: classes/system/class-yml-for-yandex-market.php:960
+msgid "Also make sure that there are no problems with the CRON on your site"
+msgstr "Також переконайтеся, що на вашому сайті немає проблем з CRON"
+
+#: classes/system/class-yml-for-yandex-market.php:957
+msgid "Counting the number of products"
+msgstr ""
+
+#: classes/system/class-yml-for-yandex-market.php:960
+msgid "Progress"
+msgstr "Прогрес"
+
+#: classes/system/class-yml-for-yandex-market.php:960
+msgid "from"
+msgstr "з"
+
+#: classes/system/class-yml-for-yandex-market.php:960 functions.php:95
+#: functions.php:110 includes/wc-add-functions.php:90
+#: includes/wc-add-functions.php:105
+msgid "products"
+msgstr "товарів"
+
+#: classes/system/class-yml-for-yandex-market.php:963
+msgid "Prior to the completion of less than 70 seconds"
+msgstr "До завершення менше 70 секунд"
+
+#: classes/system/class-yml-for-yandex-market.php:965
+msgid "We are working on automatic file creation. XML will be developed soon"
+msgstr "Йде автоматичне створення файлу. XML-фід незабаром буде створено"
+
+#: extensions.php:5
+msgid "Extensions for YML for Yandex Market"
+msgstr "Розширення для Yml для Яндекс Маркету"
+
+#: extensions.php:16
+msgid "The ability to exclude goods from certain categories"
+msgstr "Можливість виключати товари з певних категорій"
+
+#: extensions.php:17
+msgid "Ability to exclude goods by certain tags"
+msgstr "Можливість виключення товарів з певним тегами"
+
+#: extensions.php:18
+msgid "The ability to exclude products at a price"
+msgstr "Можливість виключити товари за ціною"
+
+#: extensions.php:19
+msgid "Ability to assign labels as categories"
+msgstr "Можливість привласнювати мітки в якості категорій"
+
+#: extensions.php:20
+msgid "Ability to download multiple images for products instead of one"
+msgstr ""
+"Можливість завантаження декількох зображень для продуктів замість одного"
+
+#: extensions.php:21
+msgid ""
+"Ability to specify a product with a category tree identical to the category "
+"tree on the Yandex Market"
+msgstr ""
+"Можливість вказати товар з деревом категорій, ідентичним дереву категорій на "
+"Яндекс Маркеті"
+
+#: extensions.php:22
+msgid "Ability to remove the Visual Composer shortcodes from the description"
+msgstr "Можливість видалити шорткоди Visual Composer з опису"
+
+#: extensions.php:23
+msgid ""
+"The ability to add one attribute to the beginning of the product name, add "
+"three attributes to the end of the product name. The function may be needed "
+"when unloading goods on the site rozetka.com.ua and similar"
+msgstr ""
+"Можливість додати один атрибут в початок назви товару і три атрибута в "
+"кінець назви товару. Функція може знадобитися під час вивантаження товарів "
+"на сайт rozetka.com.ua і аналогічні"
+
+#: extensions.php:24
+msgid "Support UTM tags"
+msgstr "Підтримка тегів UTM"
+
+#: extensions.php:25 extensions.php:26
+msgid "any text you specify, for example"
+msgstr "будь-який текст, який ви вкажете, наприклад"
+
+#: extensions.php:27
+msgid "Category ID or Product ID"
+msgstr "ID категорії або ID товару"
+
+#: extensions.php:29
+msgid "product ID"
+msgstr "ID товару"
+
+#: extensions.php:30
+msgid "Support Roistat tags"
+msgstr "Підтримка тегів Roistat"
+
+#: extensions.php:31
+msgid "Dimension Grid Support. For example"
+msgstr "Підтримка розмірної сітки. Наприклад"
+
+#: extensions.php:35
+msgid "Even more stable work"
+msgstr "Ще більш стабільна робота"
+
+#: extensions.php:37 extensions.php:52 extensions.php:74 extensions.php:93
+#: extensions.php:121 extensions.php:143
+msgid "Get Now"
+msgstr ""
+
+#: extensions.php:50
+msgid ""
+"This extension adds to the plugin support for a special type of export by "
+"Yandex Market for books"
+msgstr ""
+"Це розширення додає в плагін спеціальний вид експорту Yandex Market для книг"
+
+#: extensions.php:67 extensions.php:87
+msgid ""
+"This extension adds to the plugin support for special attributes needed to "
+"export products on"
+msgstr ""
+"Це розширення додає в плагін підтримку спеціальних атрибутів, необхідних для "
+"експорту товарів на"
+
+#: extensions.php:67 extensions.php:87 extensions.php:136
+msgid "among which"
+msgstr "серед яких"
+
+#: extensions.php:72 extensions.php:91 extensions.php:141
+msgid "and so on"
+msgstr "і так далі"
+
+#: extensions.php:73
+msgid "Read more on aliexpress.com"
+msgstr "Детальніше читайте на aliexpress.com"
+
+#: extensions.php:92
+msgid "Read more on rozetka.com.ua"
+msgstr "Детальніше читайте на rozetka.com.ua"
+
+#: extensions.php:108
+msgid ""
+"This extension allows you to transfer information about various stores "
+"promotions, such as"
+msgstr ""
+"Це розширення дозволяє передавати інформацію про різних рекламних акціях "
+"магазинів, таких як"
+
+#: extensions.php:110
+msgid "Promo Code"
+msgstr "Промо код"
+
+#: extensions.php:111
+msgid "Flash Discount"
+msgstr "Спеціальна ціна"
+
+#: extensions.php:112
+msgid "N+M"
+msgstr "N+M"
+
+#: extensions.php:113
+msgid "Gifts"
+msgstr "Подарунки"
+
+#: extensions.php:115
+msgid "Very important"
+msgstr "Дуже важливо"
+
+#: extensions.php:115
+msgid ""
+"The extension allows you to send information about the \"Gift at Purchase\" "
+"to Yandex Market (see screenshot)"
+msgstr ""
+"Розширення дозволяє передавати на Яндекс Маркет інформацію про \"Подарунок "
+"при покупці\" (див скріншот)"
+
+#: extensions.php:117
+msgid "For successful moderation you need"
+msgstr "Для успішної модерації Вам знадобиться"
+
+#: extensions.php:117
+msgid "self add information"
+msgstr "самостійне додавання інформації"
+
+#: extensions.php:117
+msgid ""
+"that the person is entitled to a gift for purchase. Otherwise YOU WILL NOT "
+"TAKE A MODERATION on Yandex Market"
+msgstr ""
+"про те, що за покупку людині надається подарунок. Якщо цього не зробити, то "
+"Ви НЕ пройде модерацію на Яндекс Маркеті"
+
+#: extensions.php:117
+msgid "Sure to"
+msgstr "Обов'язково"
+
+#: extensions.php:117
+msgid ""
+"BEFORE PURCHASING this extension - add relevant information to your site"
+msgstr ""
+"ПЕРЕД ПОКУПКОЮ цього розширення додайте відповідну інформацію на Ваш сайт"
+
+#: extensions.php:118
+msgid "For example, this can be done using a plugin"
+msgstr "Наприклад, це можна зробити за допомогою плагіна"
+
+#: extensions.php:120
+msgid "Read usage case"
+msgstr "Подивитися приклад використання"
+
+#: extensions.php:136
+msgid ""
+"This extension adds to the plugin support for special attributes needed to "
+"export products on prom.ua"
+msgstr ""
+"Це розширення додає в плагін підтримку спеціальних атрибутів, необхідних для "
+"експорту товарів на prom.ua"
+
+#: extensions.php:142
+msgid "Read more on Prom.ua"
+msgstr "Детальніше читайте на Prom.ua"
+
+#: includes/icopydoc-useful-functions.php:200
+#, php-format
+msgid "No %s is associated with #%d"
+msgstr ""
+
+#: includes/icopydoc-useful-functions.php:225
+#, php-format
+msgid "This %s cannot be deleted"
+msgstr ""
+
+#: sandbox.php:5
+msgid "The sandbox is working. The result will appear below"
+msgstr ""
+
+#: sandbox.php:16
+msgid "The sandbox is working correctly"
+msgstr ""
+
+#: yml-for-yandex-market.php:37
+msgid "plugin requires a php version of at least"
+msgstr ""
+
+#: yml-for-yandex-market.php:38
+#, fuzzy
+#| msgid "You have plugin installed"
+msgid "You have the version installed"
+msgstr "У вас встановлений плагін"
+
+#: yml-for-yandex-market.php:57
+msgid "requires WooCommerce installed and activated"
+msgstr ""
+
+#~ msgid "Get YML for Yandex Market Pro Now"
+#~ msgstr "Отримайте Yml для Yandex Market Pro прямо зараз"
+
+#~ msgid "Get YML for Yandex Market Book Export Now"
+#~ msgstr "Отримайте Yml для експорту Книг Яндекс Маркет прямо зараз"
+
+#~ msgid "Get YML for Yandex Market Promos Export Now"
+#~ msgstr "Отримати YML for Yandex Market Promos Export зараз"
+
+#~ msgid "Get YML for Yandex Market Prom Export Now"
+#~ msgstr "Отримати YML for Yandex Market Prom Export зараз"
+
+#~ msgid "Get YML for Yandex Market Rozetka Export Now"
+#~ msgstr "Отримайте Yml для експорту Розетки Яндекс Маркет прямо зараз"
+
+#~ msgid "Get YML for Yandex Market Aliexpress Export Now"
+#~ msgstr "Отримайте Yml для експорту на Яндекс Маркет Aliexpress прямо зараз"
+
+#~ msgid "None"
+#~ msgstr "Немає"
+
+#~ msgid "Used"
+#~ msgstr "Вживаний"
+
+#~ msgid "Reset plugin settings"
+#~ msgstr "Скинути налаштування плагіна"
+
+#~ msgid "Reset plugin settings can be useful in the event of a problem"
+#~ msgstr ""
+#~ "Скидання налаштувань плагіна може бути корисний у разі виникнення проблем"
+
+#~ msgid "Site URL"
+#~ msgstr "УРЛ сайту"
+
+#~ msgid "URL YML-feed"
+#~ msgstr "УРЛ YML-фід"
+
+#~ msgid "And if you want a response, be sure to include your email address"
+#~ msgstr ""
+#~ "І якщо ви хочете отримати відповідь, обов'язково вкажіть свою адресу "
+#~ "електронної пошти"
+
+#~ msgid "Exporter Yandex Market"
+#~ msgstr "Експортер Яндекс Маркет"
+
+#~ msgid ""
+#~ "For the plugin to function correctly, you need a version of WooCommerce "
+#~ "3.0 and higher! You have version "
+#~ msgstr ""
+#~ "Для правильної роботи плагіна необхідна версія WooCommerce 3.0 і вище! У "
+#~ "Вас встановлена версія"
+
+#~ msgid " installed. Please, update WooCommerce"
+#~ msgstr "Встановлений. Будь ласка, поновіть WooCommerce"
+
+#~ msgid ""
+#~ "Most likely, the plugin does not work correctly because you turned off "
+#~ "the CRON with the help of the "
+#~ msgstr ""
+#~ "Швидше за все, плагін працює неправильно, тому що ви вимкнули CRON з "
+#~ "допомогою "
+
+#~ msgid ""
+#~ "is an extension that allows you to increase sales by unloading Promotions "
+#~ "(promos, gifts) on the Yandex Market"
+#~ msgstr ""
+#~ "це розширення, яке дозволяє збільшити продажі за рахунок вивантаження "
+#~ "промоакцій (promos, gifts) на Яндекс Маркет"
+
+#~ msgid "a necessary extension for those who sell products on"
+#~ msgstr "необхідне розширення для тих, хто продає товари на"
+
+#~ msgid "extension for exporting products to"
+#~ msgstr "розширення для експорту товарів на"
+
+#~ msgid "adds YML support for books to the plugin"
+#~ msgstr "додає підтримку YML для книг в плагін"
+
+#~ msgid "Select feed"
+#~ msgstr "Вибрати фід"
+
+#~ msgid ""
+#~ "Please note that Yandex Market checks YML no more than 3 times a day! "
+#~ "This means that the changes on the Yandex Market are not instantaneous"
+#~ msgstr ""
+#~ "Будь ласка, зверніть увагу, що Яндекс Маркет перевіряє YML не більше 3 "
+#~ "разів на день! Це означає, що зміни на Яндекс-Маркеті не є миттєвими"
+
+#~ msgid "Turbo Pages"
+#~ msgstr "Турбо-Сторінки"
+
+# Без
+#~ msgid ""
+#~ "The elements located in this block are important when creating a YML feed "
+#~ "for some models, but they are not important or even prohibited for others"
+#~ msgstr ""
+#~ "Елементи, розташовані в цьому блоці, важливі при створенні каналу YML для "
+#~ "деяких моделей, але вони не важливі або навіть заборонені для інших"
+
+#~ msgid "Use only in CDEK feed"
+#~ msgstr "Використовувати тільки в стрічці CDEK"
+
+#~ msgid "Element"
+#~ msgstr "Елемент"
+
+#~ msgid "Do not use it if you create YML-feed for Yandex Market"
+#~ msgstr "Не використовуйте його, якщо ви створюєте YML-фід для Яндекс.Маркет"
+
+#~ msgid "Read more on"
+#~ msgstr "Детальніше на"
+
+# Без
+#~ msgid "Use only for"
+#~ msgstr "Використовуйте тільки для"
+
+#~ msgid "Beru"
+#~ msgstr "Беру"
+
+#~ msgid "recommended"
+#~ msgstr "рекомендується"
+
+# Без
+#~ msgid "Required if the feeds for"
+#~ msgstr "Обов’язково, якщо фід для"
+
+#~ msgid "Models"
+#~ msgstr "Моделі"
+
+#~ msgid "Required if the feed is for BERU"
+#~ msgstr "Обов'язковий для фіда BERU"
+
+#~ msgid "Use only in Beru feed"
+#~ msgstr "Використовуйте тільки для фіда Beru"
+
+#~ msgid "Only for BERU"
+#~ msgstr "Тільки для BERU"
+
+#~ msgid "When using this option, it is recommended to uncheck checkboxes"
+#~ msgstr ""
+#~ "При використанні цієї опції рекомендується не встановлювати прапорці"
+
+# Без
+#~ msgid "Optional element for"
+#~ msgstr "Додатковий елемент для"
+
+#~ msgid "A list of possible values"
+#~ msgstr "Список можливих значень"
+
+#~ msgid "Product ID source for OZON"
+#~ msgstr "Джерело ІД продукту для OZON"
+
+#~ msgid "If selected"
+#~ msgstr "При виборі"
+
+#~ msgid "do not forget to fill out this field"
+#~ msgstr "не забудьте заповнити це поле"
+
+#~ msgid "Price and delivery"
+#~ msgstr "Ціна і доставка"
+
+#~ msgid "Other elements"
+#~ msgstr "Інші елементи"
+
+#~ msgid "Use Auto discounts"
+#~ msgstr "Застосувати автоматичний розрахунок знижок"
+
+# без
+#~ msgid "do not forget to fill out this fields"
+#~ msgstr "не забудьте заповнити ці поля"
+
+# Без
+#~ msgid "Required for some product categories in the feeds for"
+#~ msgstr "Необхідний для деяких категорій продуктів фідов для"
+
+#~ msgid "Considered obsolete. Do not use the Yandex Market"
+#~ msgstr "Вважається застарілим. Не використовується Яндекс Маркетом"
+
+#~ msgid "Attention!"
+#~ msgstr "Увага!"
+
+#~ msgid "Read more about how this works"
+#~ msgstr "Дізнайтеся більше про те, як це працює"
+
+#~ msgid "Disable use of Sales notes"
+#~ msgstr "Заборонити вивантаження Sales notes"
+
+#~ msgid ""
+#~ "If the attribute from the select is absent from the product, then "
+#~ "substitute"
+#~ msgstr "Якщо атрибут з селекта вище відсутня у товару, то підставити"
+
+#~ msgid "You are using the"
+#~ msgstr "Ви використовуєте"
+
+#~ msgid "plugin of obsolete version"
+#~ msgstr "плагін застарілої версії"
+
+#~ msgid ""
+#~ "This version does not know how to work with multiple YML-feeds. I highly "
+#~ "recommend upgrading the"
+#~ msgstr ""
+#~ "Ця версія не знає, як працювати з декількома YML-фідамі. Я настійно "
+#~ "рекомендую оновити"
+
+#~ msgid "or higher"
+#~ msgstr "або вище"
+
+#~ msgid "The settings have been reset"
+#~ msgstr "Налаштування були скинуті"
+
+#~ msgid "Required for"
+#~ msgstr "Потрібно для"
+
+#~ msgid "BERU"
+#~ msgstr "Беру"
+
+#~ msgid "You have the"
+#~ msgstr "Ви використовуєте"
+
+#~ msgid "You have the W3 Total Cache plugin installed"
+#~ msgstr "У вас встановлений плагін W3 Total Cache"
+
+#~ msgid "Маркетплейс Яндекс.Маркета"
+#~ msgstr "Маркетплейс Яндекс.Маркет"
+
+#~ msgid "bytes"
+#~ msgstr "байтів"
+
+#~ msgid "byte"
+#~ msgstr "байт"
+
+#~ msgid ""
+#~ "We are working on automatic file creation. YML will be developed soon."
+#~ msgstr "Йде автоматичне створення файлу. Yml-фід незабаром буде створено."
+
+#~ msgid "Go to"
+#~ msgstr "Переходь на"
+
+#~ msgid "Settings delivery options for Yandex Market"
+#~ msgstr "Налаштування параметрів доставки для Яндекс.Маркет"
+
+#~ msgid "ID of the loan program"
+#~ msgstr "ID кредитної програми"
+
+#~ msgid "Thank you for purchasing the Promos Export extension"
+#~ msgstr "Дякуємо за використання плагіна Promos Export"
+
+#~ msgid "Thank you for purchasing the YML for Yandex Market Pro extension"
+#~ msgstr "Дякуємо за використання плагіна YML for Yandex Market Pro"
+
+#~ msgid "Read usage tips"
+#~ msgstr "Прочитати поради по використанню"
+
+#~ msgid ""
+#~ "Thank you for purchasing the YML for Yandex Market Prom Export extension"
+#~ msgstr "Дякуємо за використання плагіна YML for Yandex Market Prom Export"
+
+#~ msgid ""
+#~ "By clicking on \"Save\" you will overwrite the upload file for Yandex "
+#~ "Market."
+#~ msgstr "Натиснувши «Зберегти», ви перезапишете YML для Yandex Market."
+
+#~ msgid "Sending statistics you help make the plugin even better!"
+#~ msgstr "Будь ласка, допоможіть зробити плагін краще!"
+
+#~ msgid "Plugin has been updated to version"
+#~ msgstr "Плагін був оновлений до версії"
+
+#~ msgid "Please resave the plugin settings"
+#~ msgstr "Будь ласка, пересохраніть налаштування плагіна"
+
+#~ msgid "Substitute from Perfect Woocommerce Brands"
+#~ msgstr "Підставляти з Perfect Woocommerce Brands"
+
+#~ msgid "Generate your 1st YML feed!"
+#~ msgstr "Створіть ваш 1-й YML фід!"
+
+#~ msgid "Go to YML for Yandex Market Pro and"
+#~ msgstr "Переходь на YML for Yandex Market Pro і"
+
+#~ msgid "Download the"
+#~ msgstr "Завантажте"
+
+#~ msgid "All"
+#~ msgstr "Всі"
+
+#~ msgid "On the plugin settings page click on the"
+#~ msgstr "На сторінці налаштувань плагіна натисніть на кнопку"
+
+#~ msgid "In the absence of a substitute"
+#~ msgstr "Якщо відсутня, то підставити"
+
+#~ msgid "Expiry"
+#~ msgstr "Закінчення"
+
+#~ msgid "Sales notes will be added to all items, if you complete this field"
+#~ msgstr "Sales notes буде додано до всіх товарів, якщо заповнити це поле"
+
+#~ msgid "Work is under way on this extension"
+#~ msgstr "Ведеться робота над цим розширенням"
+
+#~ msgid "If you have any ideas how to make the plugin better"
+#~ msgstr "Якщо у вас є ідеї, як зробити плагін краще"
+
+#~ msgid "Perhaps, it is your idea that will enter this extension"
+#~ msgstr "Можливо, ваша ідея увійде в даний розширення"
+
+#~ msgid "Get Special Offer Now"
+#~ msgstr "Отримайте спеціальну пропозицію зараз"
+
+#~ msgid "Adult store?"
+#~ msgstr "Магазин для дорослих?"
+
+#~ msgid "Settings Maps for WP"
+#~ msgstr "Налаштування Maps for WP"
+
+#~ msgid "Text when you hover over a point"
+#~ msgstr "Текст при наведении на точку"
+
+#~ msgid "The image point on the map (36×36)"
+#~ msgstr "Іконка точки на карті (36×36)"
+
+#~ msgid "Zoom map with many points"
+#~ msgstr "Масштаб карти з безліччю точок"
+
+#~ msgid "Latitude center map with many points"
+#~ msgstr "Широта центру карти з безліччю точок"
+
+#~ msgid "Longitude center map with many points"
+#~ msgstr "Довгота карти з безліччю точок"
+
+#~ msgid "Zoom map with one point"
+#~ msgstr "Масштаб карти з однією точкою"
+
+#~ msgid "Latitude map with one point"
+#~ msgstr "Широта карти з однією точкою"
+
+#~ msgid "Longitude map with one point"
+#~ msgstr "Довгота карти з однією точкою"
+
+#~ msgid "Location"
+#~ msgstr "Місцезнаходження"
+
+#~ msgid "Latitude"
+#~ msgstr "Широта"
+
+#~ msgid "Longitude"
+#~ msgstr "Довгота"
+
+#~ msgid "Country"
+#~ msgstr "Країна"
+
+#~ msgid "Region"
+#~ msgstr "Регіон"
+
+#~ msgid "Subadministrative"
+#~ msgstr "Район"
+
+#~ msgid "City"
+#~ msgstr "Місто"
+
+#~ msgid "The exact address"
+#~ msgstr "Точна адреса"
+
+#~ msgid "Container Yandex Maps"
+#~ msgstr "Блок Yandex Maps"

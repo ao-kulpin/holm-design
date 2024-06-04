@@ -1,0 +1,8 @@
+.y4ym_bold {font-weight: 700;}
+.y4ym_tr {border-top-width: 2px; border-top-style: dashed; border-top-color: #e7e2e2;}
+#yfym_no_group_id_arr, #yfym_add_in_name_arr, #yfym_params_arr, #yfymp_exclude_cat_arr, #yfymbe_books_cat_arr {min-height: 280px !important;} 
+.wp-admin select {padding: 3px 24px 3px 8px !important;} /* .form-table {table-layout: fixed !important;} */
+.meta-box-sortables select {width: 100% !important;}
+.woocommerce table.form-table input[type="text"], .woocommerce table.form-table input[type="number"] {max-width: 100% !important;} 
+/* .woocommerce table.form-table select, убрал тк. какой то конфликт со стилями YITH WooCommerce Tab Manager Premium при активной PRO*/
+#yfym_extensions .form-table td p {font-size: 18px !important;}
